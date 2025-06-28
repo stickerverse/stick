@@ -1,0 +1,1292 @@
+.account-updateinfo {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.account-updateinfo .body-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #070140;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 1230px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-323 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 84.49px;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+}
+
+.account-updateinfo .background-18 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    177deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .header-12 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 10px;
+  justify-content: space-between;
+  max-width: 1600px;
+  padding: 16px 50px 0px 49.99px;
+  position: relative;
+  width: 1600px;
+}
+
+.account-updateinfo .link-margin-21 {
+  height: 68.5px;
+  position: relative;
+  width: 107.5px;
+}
+
+.account-updateinfo .link-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: -8px;
+  padding: 7.5px;
+  position: relative;
+}
+
+.account-updateinfo .sticker-shuttle-12 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: block;
+  height: 64px;
+  position: relative;
+  width: 252px;
+}
+
+.account-updateinfo .container-324 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.account-updateinfo .component-152 {
+  align-self: stretch !important;
+  border-color: #1a1a74 !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.account-updateinfo .component-153 {
+  font-weight: 500 !important;
+}
+
+.account-updateinfo .component-154 {
+  align-self: stretch !important;
+  background-color: #c3ff00 !important;
+  box-shadow: 2px 2px 0px #ffffff !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.account-updateinfo .link-margin-22 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 43.99px;
+  position: relative;
+  width: 31.99px;
+}
+
+.account-updateinfo .component-155 {
+  height: 43.99px !important;
+  left: unset !important;
+  margin-right: -12.00px !important;
+  top: unset !important;
+  width: 43.99px !important;
+}
+
+.account-updateinfo .main-11 {
+  align-items: flex-start;
+  background-color: #070140;
+  display: flex;
+  flex-direction: column;
+  height: 836.39px;
+  max-width: 2592px;
+  padding: 70px 0px 49.99px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.account-updateinfo .container-325 {
+  align-items: flex-start;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 20px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.account-updateinfo .container-326 {
+  height: 49.99px;
+  max-width: 2569.5px;
+  position: relative;
+  width: 1440px;
+}
+
+.account-updateinfo .container-327 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 90px;
+  left: 720px;
+  position: relative;
+  width: 720px;
+}
+
+.account-updateinfo .text-wrapper-118 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.60px;
+  line-height: 90px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-updateinfo .container-328 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-bottom: -0.01px;
+  padding: 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-329 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  max-width: 2569.5px;
+  position: relative;
+  width: 1440px;
+}
+
+.account-updateinfo .container-330 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-331 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 39.99px;
+  position: relative;
+  width: 330px;
+}
+
+.account-updateinfo .container-332 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  left: 0;
+  max-width: 2592px;
+  position: absolute;
+  top: -45px;
+  width: 68.20%;
+}
+
+.account-updateinfo .container-333 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.account-updateinfo .welcome-stephen-2 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-updateinfo .text-wrapper-119 {
+  font-family: var(--stickershuttle-com-montserrat-light-font-family);
+  font-size: var(--stickershuttle-com-montserrat-light-font-size);
+  font-style: var(--stickershuttle-com-montserrat-light-font-style);
+  font-weight: var(--stickershuttle-com-montserrat-light-font-weight);
+  letter-spacing: var(--stickershuttle-com-montserrat-light-letter-spacing);
+  line-height: var(--stickershuttle-com-montserrat-light-line-height);
+}
+
+.account-updateinfo .text-wrapper-120 {
+  font-family: var(--stickershuttle-com-montserrat-semibold-font-family);
+  font-size: var(--stickershuttle-com-montserrat-semibold-font-size);
+  font-style: var(--stickershuttle-com-montserrat-semibold-font-style);
+  font-weight: var(--stickershuttle-com-montserrat-semibold-font-weight);
+  letter-spacing: var(--stickershuttle-com-montserrat-semibold-letter-spacing);
+  line-height: var(--stickershuttle-com-montserrat-semibold-line-height);
+}
+
+.account-updateinfo .container-334 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .component-156 {
+  align-self: stretch !important;
+  height: 49.99px !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-updateinfo .container-335 {
+  align-self: stretch;
+  height: 260.98px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .margin-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 8px;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.account-updateinfo .div-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .text-wrapper-121 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-updateinfo .container-336 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 10px 0px;
+  position: absolute;
+  top: 155px;
+  width: 330px;
+}
+
+.account-updateinfo .component-8-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 43px;
+  max-width: 330px;
+  padding: 0px 0px 7px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .component-157 {
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-updateinfo .link-margin-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 43px;
+  margin-top: -0.01px;
+  max-width: 330px;
+  padding: 0px 0px 7px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .component-158 {
+  border-color: #0f028c !important;
+  left: unset !important;
+  padding: 10.38px 10.75px 11.62px !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-updateinfo .background-border-44 {
+  align-items: flex-start;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000014;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 117px;
+  padding: 20.74px 15.75px 42.26px 10.75px;
+  position: absolute;
+  top: 38px;
+  width: 330px;
+}
+
+.account-updateinfo .margin-18 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-337 {
+  align-self: stretch;
+  height: 19.5px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .margin-19 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 25px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 5px 0px 0px;
+  position: absolute;
+  top: -3px;
+}
+
+.account-updateinfo .container-338 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 24.75px;
+  position: relative;
+}
+
+.account-updateinfo .container-339 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.account-updateinfo .component-159 {
+  height: 24.74px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 25.6px !important;
+}
+
+.account-updateinfo .text-wrapper-122 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  height: 14px;
+  left: 31px;
+  letter-spacing: 0.60px;
+  line-height: 14px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.account-updateinfo .text-wrapper-123 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  height: 18px;
+  left: 31px;
+  letter-spacing: 0.60px;
+  line-height: 18px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.account-updateinfo .container-340 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.account-updateinfo .container-341 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-342 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  height: 49.99px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .text-wrapper-124 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-updateinfo .container-343 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .background-border-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000014;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  min-height: 117px;
+  padding: 15px 15.75px 10.76px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-344 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 0px 0.74px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .text-wrapper-125 {
+  color: #ffffff;
+  flex: 1;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.60px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-updateinfo .form-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.01px;
+  margin-bottom: -0.02px;
+  margin-top: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-345 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .margin-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 10px 15px;
+  position: relative;
+  width: 349.5px;
+}
+
+.account-updateinfo .input-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  height: 49.99px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 20.99px 10.75px 11px 14.75px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-346 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  overflow: scroll;
+  position: relative;
+}
+
+.account-updateinfo .container-346::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.account-updateinfo .text-wrapper-126 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-semantic-input-font-family);
+  font-size: var(--stickershuttle-com-semantic-input-font-size);
+  font-style: var(--stickershuttle-com-semantic-input-font-style);
+  font-weight: var(--stickershuttle-com-semantic-input-font-weight);
+  letter-spacing: var(--stickershuttle-com-semantic-input-letter-spacing);
+  line-height: var(--stickershuttle-com-semantic-input-line-height);
+  position: relative;
+}
+
+.account-updateinfo .label-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 17px;
+  left: 4.55%;
+  position: absolute;
+  top: 3px;
+  width: 21.40%;
+}
+
+.account-updateinfo .text-wrapper-127 {
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-semantic-label-font-family);
+  font-size: var(--stickershuttle-com-semantic-label-font-size);
+  font-style: var(--stickershuttle-com-semantic-label-font-style);
+  font-weight: var(--stickershuttle-com-semantic-label-font-weight);
+  letter-spacing: var(--stickershuttle-com-semantic-label-letter-spacing);
+  line-height: var(--stickershuttle-com-semantic-label-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-updateinfo .label-5 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 17px;
+  left: 4.55%;
+  position: absolute;
+  top: 3px;
+  width: 20.78%;
+}
+
+.account-updateinfo .label-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 17px;
+  left: 4.55%;
+  position: absolute;
+  top: 3px;
+  width: 11.47%;
+}
+
+.account-updateinfo .text-wrapper-128 {
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-semantic-label-font-family);
+  font-size: var(--stickershuttle-com-semantic-label-font-size);
+  font-style: var(--stickershuttle-com-semantic-label-font-style);
+  font-weight: var(--stickershuttle-com-semantic-label-font-weight);
+  letter-spacing: var(--stickershuttle-com-semantic-label-letter-spacing);
+  line-height: var(--stickershuttle-com-semantic-label-line-height);
+  margin-left: -0.22px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-updateinfo .margin-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-347 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .component-160 {
+  border-color: unset !important;
+  flex: 0 0 auto !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.account-updateinfo .container-348 {
+  align-items: flex-start;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 12px;
+  position: absolute;
+  width: 330px;
+}
+
+.account-updateinfo .component-161 {
+  align-self: stretch !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-updateinfo .margin-22 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 10px 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .background-border-46 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000014;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: space-between;
+  min-height: 117px;
+  padding: 15px 15.75px 10.75px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .form-3 {
+  align-self: stretch;
+  height: 114.98px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .margin-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 10px;
+  position: absolute;
+  top: 65px;
+  width: 1078px;
+}
+
+.account-updateinfo .component-162 {
+  border-color: unset !important;
+  flex: 0 0 auto !important;
+  padding: 12.38px 20.75px 13.62px !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.account-updateinfo .overlap-group-8 {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1078px;
+}
+
+.account-updateinfo .margin-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 10px 15px;
+  position: absolute;
+  top: 0;
+  width: 554px;
+}
+
+.account-updateinfo .input-7 {
+  align-self: stretch;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 8px;
+  height: 49.99px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .label-7 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 17px;
+  left: 2.97%;
+  position: absolute;
+  top: 3px;
+  width: 18.35%;
+}
+
+.account-updateinfo .margin-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 524px;
+  padding: 0px 10px 15px;
+  position: absolute;
+  top: 0;
+  width: 554px;
+}
+
+.account-updateinfo .label-8 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 17px;
+  left: 2.97%;
+  position: absolute;
+  top: 3px;
+  width: 21.58%;
+}
+
+.account-updateinfo .background-border-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000014;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  min-height: 117px;
+  padding: 15px 15.75px 10.75px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .margin-26 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 39.74px;
+  justify-content: center;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-349 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 24.74px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .item-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 165px;
+  margin-top: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .item-38 {
+  align-items: flex-start;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  padding: 0px 20px 0px 0px;
+  position: relative;
+  width: 349.5px;
+}
+
+.account-updateinfo .container-350 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 150px;
+  padding: 20px 10px 50.01px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-351 {
+  align-items: center;
+  display: inline-flex;
+  height: 79.99px;
+  justify-content: center;
+  position: relative;
+}
+
+.account-updateinfo .component-163 {
+  height: 79.99px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 81.54px !important;
+}
+
+.account-updateinfo .container-352 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 119px;
+  position: absolute;
+  top: 104px;
+}
+
+.account-updateinfo .text-wrapper-129 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.60px;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-updateinfo .container-353 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 593.12px;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+.account-updateinfo .footer-12 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    164deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.02px;
+  padding: 60px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-354 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 1600px;
+  padding: 0px 50px 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.account-updateinfo .container-355 {
+  align-self: stretch;
+  height: 378.39px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-356 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 217px;
+  left: 0;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.account-updateinfo .text-wrapper-130 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 23.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-updateinfo .list-26 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.78px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .item-39 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2.38px 0px 0px;
+  position: relative;
+  width: 469.01px;
+}
+
+.account-updateinfo .component-164 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.account-updateinfo .item-40 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 469.01px;
+}
+
+.account-updateinfo .component-165 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.38px 0px 4.82px !important;
+  top: unset !important;
+}
+
+.account-updateinfo .component-166 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.36px 0px 4.82px !important;
+  top: unset !important;
+}
+
+.account-updateinfo .container-357 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 217px;
+  left: 508px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.account-updateinfo .item-41 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .container-358 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 217px;
+  left: 1016px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.account-updateinfo .text-wrapper-131 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-updateinfo .container-359 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 508px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 277px;
+  width: 484px;
+}
+
+.account-updateinfo .container-360 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -8.50px;
+  padding: 0px 0px 8.54px;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .sticker-society-PNG-11 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 101px;
+  position: relative;
+  width: 388px;
+}
+
+.account-updateinfo .container-361 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 1016px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 277px;
+  width: 484px;
+}
+
+.account-updateinfo .strong-sticker-12 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-updateinfo .container-362 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.account-updateinfo .list-27 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 7.11e-15px;
+  justify-content: center;
+  position: relative;
+}
+
+.account-updateinfo .component-12-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.account-updateinfo .component-12-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-updateinfo .component-167 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.account-updateinfo .horizontal-border-15 {
+  align-self: stretch;
+  border-color: #ffffff14;
+  border-top-style: solid;
+  border-top-width: 0.75px;
+  height: 30.75px;
+  position: relative;
+  width: 100%;
+}

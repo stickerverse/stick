@@ -1,0 +1,25 @@
+.component-49 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.component-49.hover-35-true {
+  left: 180px;
+  padding: 12.37px 12.37px 12.36px 12.36px;
+  width: calc(100.00% - 180px);
+}
+
+.component-49.variant-40-two {
+  top: 104px;
+}
+
+.component-49.variant-40-one {
+  top: 30px;
+}
+
+.component-49.hover-35-false {
+  left: 30px;
+  padding: 13px;
+  width: calc(100.00% - 30px);
+}

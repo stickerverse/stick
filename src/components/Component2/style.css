@@ -1,0 +1,123 @@
+.component-2 {
+  align-items: center;
+  border-radius: 11px;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.component-2 .link-paints {
+  background-color: #f3ff00;
+  border-radius: 11px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.component-2 .text-wrapper {
+  color: #1c1c77;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-2 .overlay-shadow {
+  background-color: #ffffff01;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  display: block;
+  position: absolute;
+}
+
+.component-2 .overlay-shadow-2 {
+  background-color: #ffffff01;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  position: absolute;
+}
+
+.component-2.hover-4-true {
+  background-color: #f3ff00;
+  min-height: 47.94px;
+  min-width: 124.44px;
+  padding: 13.96px 40.18px 14.98px;
+}
+
+.component-2.variant-3-three {
+  top: 188px;
+}
+
+.component-2.hover-4-false {
+  left: 30px;
+  min-height: 47px;
+  min-width: 122px;
+  padding: 14px 39.39px 15px;
+}
+
+.component-2.variant-3-two {
+  top: 109px;
+}
+
+.component-2.variant-3-one {
+  top: 30px;
+}
+
+.component-2.hover-4-true .text-wrapper {
+  font-size: 15.3px;
+  letter-spacing: 1.02px;
+  line-height: 18.4px;
+}
+
+.component-2.hover-4-false .text-wrapper {
+  font-size: 15px;
+  letter-spacing: 1.00px;
+  line-height: 18px;
+}
+
+.component-2.variant-3-two .overlay-shadow {
+  height: calc(100.00% - 2px);
+  left: 1px;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.component-2.variant-3-three .overlay-shadow {
+  height: calc(100.00% - 6px);
+  left: 3px;
+  top: 3px;
+  width: calc(100.00% - 6px);
+}
+
+.component-2.variant-3-one .overlay-shadow {
+  height: calc(100.00% - 2px);
+  left: 1px;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.component-2.variant-3-two .overlay-shadow-2 {
+  height: calc(100.00% - 2px);
+  left: 1px;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.component-2.variant-3-three .overlay-shadow-2 {
+  height: calc(100.00% - 6px);
+  left: 3px;
+  top: 3px;
+  width: calc(100.00% - 6px);
+}
+
+.component-2.variant-3-one .overlay-shadow-2 {
+  height: calc(100.00% - 2px);
+  left: 1px;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}

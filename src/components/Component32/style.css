@@ -1,0 +1,92 @@
+.component-32 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px 30px 30px 8px;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  left: 30px;
+  padding: 10.75px 10.74px 10.75px 20.74px;
+  position: relative;
+  top: 30px;
+  width: calc(100.00% - 30px);
+}
+
+.component-32 .container-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.component-32 .text-21 {
+  color: #0b0264;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-32 .rectangle {
+  flex: 1;
+  flex-grow: 1;
+  height: 10px;
+  margin-left: -1.91e-06px;
+  position: relative;
+}
+
+.component-32 .margin {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 19.99px;
+  margin-left: -1.91e-06px;
+  padding: 0px 5px 0px 0px;
+  position: relative;
+  width: 25.8px;
+}
+
+.component-32 .container-wrapper {
+  align-items: center;
+  display: flex;
+  height: 19.99px;
+  justify-content: center;
+  margin-right: -0.81px;
+  opacity: 0.5;
+  position: relative;
+  width: 21.61px;
+}
+
+.component-32 .component-wrapper {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  margin-bottom: -5.76px;
+  margin-top: -5.76px;
+  position: relative;
+}
+
+.component-32 .component-instance {
+  height: 31.5px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 21.61px !important;
+}
+
+.component-32:hover {
+  left: 390px;
+  opacity: 0.8;
+  width: calc(100.00% - 390px);
+}

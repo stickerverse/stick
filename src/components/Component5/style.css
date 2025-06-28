@@ -1,0 +1,34 @@
+.component-5 {
+  align-items: center;
+  border: 1px solid;
+  border-radius: 10px;
+  display: inline-flex;
+  justify-content: center;
+  min-height: 40px;
+  padding: 1px 25px;
+  position: absolute;
+  right: 0;
+}
+
+.component-5 .text-2 {
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 25.2px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-5:hover {
+  min-height: 40.8px;
+  padding: 1px 25.5px;
+}
+
+.component-5:hover .text-2 {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}

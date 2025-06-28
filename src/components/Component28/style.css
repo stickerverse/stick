@@ -1,0 +1,73 @@
+.component-28 {
+  align-items: center;
+  display: flex;
+  height: 44px;
+  justify-content: center;
+  position: relative;
+  top: 30px;
+}
+
+.component-28 .class-13 {
+  height: 43.99px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 43.99px !important;
+}
+
+.component-28 .class-14 {
+  height: 47.07px !important;
+  left: unset !important;
+  margin-bottom: -1.54px !important;
+  margin-top: -1.54px !important;
+  position: relative !important;
+  top: unset !important;
+  width: 47.07px !important;
+}
+
+.component-28 .div-wrapper {
+  align-items: center;
+  border-radius: 16.99px;
+  display: flex;
+  height: 17px;
+  justify-content: center;
+  position: absolute;
+  top: 40px;
+  width: 26px;
+}
+
+.component-28 .text-18 {
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-inter-light-underline-font-family);
+  font-size: var(--stickershuttle-com-inter-light-underline-font-size);
+  font-style: var(--stickershuttle-com-inter-light-underline-font-style);
+  font-weight: var(--stickershuttle-com-inter-light-underline-font-weight);
+  letter-spacing: var(--stickershuttle-com-inter-light-underline-letter-spacing);
+  line-height: var(--stickershuttle-com-inter-light-underline-line-height);
+  margin-bottom: -0.51px;
+  margin-left: -0.09px;
+  margin-right: -0.09px;
+  margin-top: -2.51px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.component-28.hover-22-true {
+  left: 180px;
+  width: 47px;
+}
+
+.component-28.hover-22-false {
+  left: 30px;
+  width: 44px;
+}
+
+.component-28.hover-22-true .div-wrapper {
+  left: 11px;
+}
+
+.component-28.hover-22-false .div-wrapper {
+  left: 9px;
+}

@@ -1,0 +1,115 @@
+.component-12 {
+  align-items: center;
+  display: inline-flex;
+}
+
+.component-12 .text-8 {
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-12.variant-11-three {
+  background-color: #ffd713;
+  border: 1px solid;
+  border-color: #8d9912;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  height: calc(100.00% - 186px);
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  top: 186px;
+}
+
+.component-12.variant-11-two {
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 10px;
+  box-shadow: 3px 3px 0px #0000001a;
+  height: calc(100.00% - 108px);
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  top: 108px;
+}
+
+.component-12.variant-11-one {
+  flex-direction: column;
+  position: relative;
+  top: 30px;
+}
+
+.component-12.variant-11-three.hover-11-false {
+  min-height: 40px;
+  padding: 1px 25px;
+}
+
+.component-12.variant-11-one.hover-11-false {
+  left: 30px;
+}
+
+.component-12.hover-11-true.variant-11-two {
+  min-height: 40.8px;
+  padding: 1px 25.5px;
+}
+
+.component-12.hover-11-true.variant-11-one {
+  left: 222px;
+}
+
+.component-12.variant-11-two.hover-11-false {
+  min-height: 40px;
+  padding: 1px 25px;
+}
+
+.component-12.hover-11-true.variant-11-three {
+  min-height: 40.8px;
+  padding: 1px 25.5px;
+}
+
+.component-12.variant-11-three .text-8 {
+  color: #000080;
+}
+
+.component-12.hover-11-false .text-8 {
+  font-size: 14px;
+  letter-spacing: 0.60px;
+  line-height: 25.2px;
+}
+
+.component-12.variant-11-two .text-8 {
+  color: #ffffff;
+}
+
+.component-12.variant-11-one .text-8 {
+  font-size: 14px;
+  letter-spacing: 0.60px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  text-decoration: underline;
+}
+
+.component-12.variant-11-one.hover-11-false .text-8 {
+  color: #ff0065;
+}
+
+.component-12.hover-11-true.variant-11-two .text-8 {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}
+
+.component-12.hover-11-true.variant-11-one .text-8 {
+  color: #1c1c77;
+}
+
+.component-12.hover-11-true.variant-11-three .text-8 {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}

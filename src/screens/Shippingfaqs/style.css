@@ -1,0 +1,1065 @@
+.shippingfaqs {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.shippingfaqs .body-5 {
+  align-self: stretch;
+  background-color: #070140;
+  height: 2500.78px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .main-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 1823px;
+  left: 0;
+  position: absolute;
+  top: 84px;
+  width: 1920px;
+}
+
+.shippingfaqs .div-wrapper-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-174 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1600px;
+  padding: 12px 50px 0px;
+  position: relative;
+  width: 1600px;
+}
+
+.shippingfaqs .background-border-27 {
+  align-items: flex-start;
+  align-self: stretch;
+  background: linear-gradient(
+    165deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  overflow: hidden;
+  padding: 0.75px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .overlay-4 {
+  align-items: flex-start;
+  background-color: #ffffff1a;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  position: absolute;
+  top: calc(50.00% - 148px);
+  width: 99.90%;
+}
+
+.shippingfaqs .sticker-shuttle-7 {
+  align-self: stretch;
+  background-image: url(../../../static/img/sticker-shuttle-space-astronaut-holding-american-flag.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 297px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-175 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 1600px;
+  padding: 0px 50px;
+  position: relative;
+}
+
+.shippingfaqs .container-176 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.4px;
+  max-width: 710px;
+  min-width: 450px;
+  padding: 40px 35px;
+  position: relative;
+}
+
+.shippingfaqs .heading-8 {
+  align-self: stretch;
+  height: 52px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-177 {
+  align-self: stretch;
+  height: 87px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-178 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  max-width: 450px;
+  padding: 10.59px 0px 0px;
+  position: relative;
+}
+
+.shippingfaqs .component-109 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.shippingfaqs .section-12 {
+  align-self: stretch;
+  background-color: #070140;
+  height: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .background-border-28 {
+  align-items: center;
+  background-image: url(../../../static/img/background-border-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 12.75px 0.75px;
+  position: relative;
+  width: 1500.01px;
+}
+
+.shippingfaqs .container-179 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.shippingfaqs .container-180 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .if-you-need-custom {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.shippingfaqs .component-110 {
+  flex: 0 0 auto !important;
+  margin-left: -1.14e-13px !important;
+  top: unset !important;
+}
+
+.shippingfaqs .container-181 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1600px;
+  padding: 36px 50px 20px;
+  position: relative;
+  width: 1600px;
+}
+
+.shippingfaqs .container-182 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-183 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 1500.01px;
+  position: relative;
+}
+
+.shippingfaqs .container-184 {
+  align-self: stretch;
+  background-image: url(../../../static/img/background.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 10px 0px 0px 10px;
+  height: 485.75px;
+  margin-right: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-185 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 1500.01px;
+  position: relative;
+}
+
+.shippingfaqs .background-border-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #070140;
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 0px 16px 16px 0px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  overflow: hidden;
+  padding: 115.58px 70.75px 126.19px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .heading-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -14.23px;
+  position: relative;
+}
+
+.shippingfaqs .text-wrapper-50 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 31.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.shippingfaqs .margin-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -69.50px;
+  padding: 19.44px 0px 0px;
+  position: relative;
+}
+
+.shippingfaqs .container-186 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 678px;
+}
+
+.shippingfaqs .div-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .while-our-focus-may {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 678px;
+}
+
+.shippingfaqs .link-margin-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -14.23px;
+  min-height: 77px;
+  min-width: 122px;
+  padding: 30px 0px 0px;
+  position: relative;
+}
+
+.shippingfaqs .component-111 {
+  background-color: #c3ff00 !important;
+}
+
+.shippingfaqs .component-112 {
+  font-weight: 500 !important;
+}
+
+.shippingfaqs .component-113 {
+  box-shadow: 2px 2px 0px #ffffff !important;
+}
+
+.shippingfaqs .component-114 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.shippingfaqs .section-13 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #070140;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-187 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 1600px;
+  padding: 23.38px 50px 24px;
+  position: relative;
+  width: 1600px;
+}
+
+.shippingfaqs .container-188 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .heading-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.shippingfaqs .slider-component-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .item-22 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 483.95px;
+  position: relative;
+}
+
+.shippingfaqs .container-189 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 30.75px 0.75px 20.75px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .background-border-30 {
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 16px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.shippingfaqs .container-190 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.99px;
+  margin-bottom: -0.35px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .text-wrapper-51 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-semantic-heading-3-font-family);
+  font-size: var(--stickershuttle-com-semantic-heading-3-font-size);
+  font-style: var(--stickershuttle-com-semantic-heading-3-font-style);
+  font-weight: var(--stickershuttle-com-semantic-heading-3-font-weight);
+  letter-spacing: var(--stickershuttle-com-semantic-heading-3-letter-spacing);
+  line-height: var(--stickershuttle-com-semantic-heading-3-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.shippingfaqs .container-191 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .for-most-cases {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.shippingfaqs .text-wrapper-52 {
+  font-weight: 300;
+  letter-spacing: 0.10px;
+}
+
+.shippingfaqs .text-wrapper-53 {
+  font-family: var(--stickershuttle-com-semantic-item-font-family);
+  font-size: var(--stickershuttle-com-semantic-item-font-size);
+  font-style: var(--stickershuttle-com-semantic-item-font-style);
+  font-weight: var(--stickershuttle-com-semantic-item-font-weight);
+  letter-spacing: var(--stickershuttle-com-semantic-item-letter-spacing);
+  line-height: var(--stickershuttle-com-semantic-item-line-height);
+}
+
+.shippingfaqs .strong {
+  height: 77.09px;
+  margin-top: -24.35px;
+  position: relative;
+  width: 406.35px;
+}
+
+.shippingfaqs .overlap-group-5 {
+  height: 87px;
+  position: relative;
+  top: -6px;
+  width: 407px;
+}
+
+.shippingfaqs .all {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 29px;
+  left: 342px;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 26px;
+}
+
+.shippingfaqs .orders-with {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 58px;
+  left: 0;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  position: absolute;
+  top: 29px;
+  width: 407px;
+}
+
+.shippingfaqs .container-192 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.43px;
+  margin-bottom: -28.27px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .text-wrapper-54 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.shippingfaqs .container-193 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.99px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .strong-sticker-7 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-semantic-strong-font-family);
+  font-size: var(--stickershuttle-com-semantic-strong-font-size);
+  font-style: var(--stickershuttle-com-semantic-strong-font-style);
+  font-weight: var(--stickershuttle-com-semantic-strong-font-weight);
+  letter-spacing: var(--stickershuttle-com-semantic-strong-letter-spacing);
+  line-height: var(--stickershuttle-com-semantic-strong-line-height);
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.shippingfaqs .container-194 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 29.99px;
+  max-width: 1600px;
+  padding: 11.38px 50px 100px;
+  position: relative;
+  width: 1600px;
+}
+
+.shippingfaqs .item-23 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 357px;
+  position: relative;
+}
+
+.shippingfaqs .container-195 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-196 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.44px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-197 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: -29.05px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-198 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 593px;
+  left: 0;
+  position: absolute;
+  top: 1908px;
+  width: 1920px;
+}
+
+.shippingfaqs .footer-7 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    164deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1.14e-13px;
+  margin-bottom: -0.02px;
+  padding: 60px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-199 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 1600px;
+  padding: 0px 50px 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.shippingfaqs .container-200 {
+  align-self: stretch;
+  height: 378.39px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-201 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.99px;
+  height: 217px;
+  left: 0;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.shippingfaqs .text-wrapper-55 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 23.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.shippingfaqs .list-15 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.77px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .item-24 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2.38px 0px 0px;
+  position: relative;
+  width: 469.01px;
+}
+
+.shippingfaqs .item-25 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 469.01px;
+}
+
+.shippingfaqs .component-115 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.38px 0px 4.82px !important;
+  top: unset !important;
+}
+
+.shippingfaqs .container-202 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.99px;
+  height: 217px;
+  left: 508px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.shippingfaqs .list-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.26e-14px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .component-116 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.36px 0px 5px !important;
+  top: unset !important;
+}
+
+.shippingfaqs .container-203 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.99px;
+  height: 217px;
+  left: 1016px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.shippingfaqs .container-204 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 508px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 277px;
+  width: 484px;
+}
+
+.shippingfaqs .container-205 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -8.50px;
+  padding: 0px 0px 8.54px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .sticker-society-PNG-7 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 101px;
+  position: relative;
+  width: 388px;
+}
+
+.shippingfaqs .container-206 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 1016px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 277px;
+  width: 484px;
+}
+
+.shippingfaqs .strong-sticker-8 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.shippingfaqs .container-207 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .list-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 7.11e-15px;
+  justify-content: center;
+  position: relative;
+}
+
+.shippingfaqs .item-26 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.shippingfaqs .component-117 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.shippingfaqs .component-118 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.shippingfaqs .horizontal-border-7 {
+  align-self: stretch;
+  border-color: #ffffff14;
+  border-top-style: solid;
+  border-top-width: 0.75px;
+  height: 30.75px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .container-208 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.shippingfaqs .background-9 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    177deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.shippingfaqs .header-7 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 10px;
+  justify-content: space-between;
+  max-width: 1600px;
+  padding: 16px 50px 0px 49.99px;
+  position: relative;
+  width: 1600px;
+}
+
+.shippingfaqs .link-margin-12 {
+  height: 68.5px;
+  position: relative;
+  width: 107.5px;
+}
+
+.shippingfaqs .link-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: -8px;
+  padding: 7.5px;
+  position: relative;
+}
+
+.shippingfaqs .sticker-shuttle-8 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: block;
+  height: 64px;
+  position: relative;
+  width: 252px;
+}
+
+.shippingfaqs .container-209 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.shippingfaqs .component-119 {
+  align-self: stretch !important;
+  border-color: #1a1a74 !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.shippingfaqs .component-120 {
+  align-self: stretch !important;
+  background-color: #c3ff00 !important;
+  box-shadow: 2px 2px 0px #ffffff !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.shippingfaqs .link-margin-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 43.99px;
+  position: relative;
+  width: 31.99px;
+}
+
+.shippingfaqs .component-121 {
+  height: 43.99px !important;
+  left: unset !important;
+  margin-right: -12.00px !important;
+  top: unset !important;
+  width: 43.99px !important;
+}

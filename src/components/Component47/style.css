@@ -1,0 +1,41 @@
+.component-47 {
+  align-items: center;
+  display: flex;
+  height: 25px;
+  left: 30px;
+  padding: 4.88px 0px 6.12px 35px;
+  position: relative;
+  top: 30px;
+  width: calc(100.00% - 30px);
+}
+
+.component-47 .background {
+  background-color: #eeeeee;
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.component-47 .text-34 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-47:hover {
+  left: 390px;
+  width: calc(100.00% - 390px);
+}
+
+.component-47:hover .background {
+  background-color: #cccccc;
+}

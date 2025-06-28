@@ -1,0 +1,894 @@
+.thestickerverse-com {
+  background-color: #444444;
+  height: 1400px;
+  width: 2120px;
+}
+
+.thestickerverse-com .body-wrapper {
+  background-color: #ffffff;
+  height: 1200px;
+  left: 100px;
+  overflow-y: scroll;
+  position: relative;
+  top: 100px;
+  width: 1920px;
+}
+
+.thestickerverse-com .body-wrapper::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.thestickerverse-com .body-10 {
+  background-color: #070140;
+  height: 3033px;
+  position: relative;
+  width: 1920px;
+}
+
+.thestickerverse-com .overlap-group-9 {
+  height: 2441px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.thestickerverse-com .website-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 1188px;
+  left: 0;
+  max-height: 1188px;
+  max-width: 1900.8px;
+  position: absolute;
+  top: 0;
+  width: 1901px;
+}
+
+.thestickerverse-com .image-fill-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1188px;
+  justify-content: center;
+  padding: 0px 356.4px;
+  position: relative;
+  width: 1900.8px;
+}
+
+.thestickerverse-com .component-168 {
+  position: relative !important;
+}
+
+.thestickerverse-com .main-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 2356px;
+  left: 0;
+  position: absolute;
+  top: 85px;
+  width: 1920px;
+}
+
+.thestickerverse-com .section-26 {
+  align-self: stretch;
+  background-color: #070140;
+  height: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .div-wrapper-10 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .background-border-48 {
+  align-items: center;
+  background-color: #f3ff00;
+  border: 2px dashed;
+  border-color: #a6d019;
+  border-radius: 16px;
+  box-shadow: 3px 3px 0px #a6d019;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 18px 2px;
+  position: relative;
+  width: 1500px;
+}
+
+.thestickerverse-com .container-363 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.thestickerverse-com .all-orders-with-6 {
+  align-self: stretch;
+  color: #08084c;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.thestickerverse-com .text-wrapper-132 {
+  font-weight: 300;
+  letter-spacing: 0.10px;
+}
+
+.thestickerverse-com .text-wrapper-133 {
+  font-family: var(--stickershuttle-com-inter-bold-font-family);
+  font-size: var(--stickershuttle-com-inter-bold-font-size);
+  font-style: var(--stickershuttle-com-inter-bold-font-style);
+  font-weight: var(--stickershuttle-com-inter-bold-font-weight);
+  letter-spacing: var(--stickershuttle-com-inter-bold-letter-spacing);
+  line-height: var(--stickershuttle-com-inter-bold-line-height);
+}
+
+.thestickerverse-com .background-border-49 {
+  align-items: center;
+  background-color: #ff0065;
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 48.9px 1px 29.01px;
+  position: relative;
+  width: 1500px;
+}
+
+.thestickerverse-com .image-border-3 {
+  display: block;
+  height: 236px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1500px;
+}
+
+.thestickerverse-com .container-364 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.thestickerverse-com .container-365 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19.91px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .text-wrapper-134 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 31.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.thestickerverse-com .text-wrapper-135 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.thestickerverse-com .component-169 {
+  height: 45px !important;
+  width: 120px !important;
+}
+
+.thestickerverse-com .component-170 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.thestickerverse-com .component-171 {
+  background-color: #c3ff00 !important;
+  height: 47px !important;
+  width: 122px !important;
+}
+
+.thestickerverse-com .background-border-50 {
+  align-items: center;
+  background: linear-gradient(
+    169deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 48.91px 1px 29px;
+  position: relative;
+  width: 1500px;
+}
+
+.thestickerverse-com .container-366 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19.9px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .component-172 {
+  background-color: #c3ff01 !important;
+  height: 47px !important;
+  width: 122px !important;
+}
+
+.thestickerverse-com .background-border-51 {
+  align-items: center;
+  background: linear-gradient(
+    169deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 48.9px 1px 29.01px;
+  position: relative;
+  width: 1500px;
+}
+
+.thestickerverse-com .text-wrapper-136 {
+  align-self: stretch;
+  color: #08084c;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.thestickerverse-com .component-173 {
+  height: 47px !important;
+  width: 122px !important;
+}
+
+.thestickerverse-com .image-border-4 {
+  height: 236px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1500px;
+}
+
+.thestickerverse-com .background-border-52 {
+  align-items: center;
+  background: linear-gradient(
+    169deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40.91px 1px 37px;
+  position: relative;
+  width: 1500px;
+}
+
+.thestickerverse-com .background-border-53 {
+  align-items: center;
+  background: linear-gradient(
+    169deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40.9px 1px 37.01px;
+  position: relative;
+  width: 1500px;
+}
+
+.thestickerverse-com .container-367 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30.01px;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.thestickerverse-com .component-174 {
+  height: 41px !important;
+  width: 116px !important;
+}
+
+.thestickerverse-com .section-27 {
+  align-self: stretch;
+  background-color: #070140;
+  height: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .container-368 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 2000px;
+  overflow: hidden;
+  padding: 25px 10px;
+  position: relative;
+  width: 1920px;
+}
+
+.thestickerverse-com .container-369 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -550.00px;
+  position: relative;
+}
+
+.thestickerverse-com .margin-27 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 25px 8.8px 0px;
+  position: relative;
+}
+
+.thestickerverse-com .stickershuttle-11 {
+  background-image: url(../../../static/img/stickershuttle-banner-customstickers-34ffab73-0499-447e-80cb-043-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.thestickerverse-com .box-png-2 {
+  background-image: url(../../../static/img/box-2-png-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.thestickerverse-com .stickershuttle-photo-2 {
+  background-image: url(../../../static/img/stickershuttle-photo-nottodaysatan-15e87c0a-e20c-4de8-8e7d-73214-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.thestickerverse-com .small-png-3 {
+  background-image: url(../../../static/img/small-png-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.thestickerverse-com .halloween-set-jpg-2 {
+  background-image: url(../../../static/img/halloween-set-jpg-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.thestickerverse-com .sticker-sheets-are-2 {
+  background-image: url(../../../static/img/sticker-sheets-are-the-way-to-go-27153d88-37cb-41a1-9980-9ca6fdd-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.thestickerverse-com .blinker-fluid-jpg-2 {
+  background-image: url(../../../static/img/blinker-fluid-jpg-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.thestickerverse-com .margin-28 {
+  height: 158.8px;
+  position: relative;
+  width: 175px;
+}
+
+.thestickerverse-com .container-370 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.thestickerverse-com .background-19 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    176deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .header-13 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 10px;
+  justify-content: space-between;
+  max-width: 1600px;
+  padding: 16px 50px 0px;
+  position: relative;
+  width: 1600px;
+}
+
+.thestickerverse-com .link-margin-24 {
+  height: 69px;
+  position: relative;
+  width: 107.5px;
+}
+
+.thestickerverse-com .link-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: -8px;
+  padding: 7.5px;
+  position: relative;
+}
+
+.thestickerverse-com .sticker-shuttle-13 {
+  background-image: url(../../../static/img/sticker-shuttle-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 64.45px;
+  position: relative;
+  width: 252.26px;
+}
+
+.thestickerverse-com .nav-margin-6 {
+  flex: 1;
+  flex-grow: 1;
+  height: 10.5px;
+  position: relative;
+}
+
+.thestickerverse-com .container-371 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.thestickerverse-com .component-175 {
+  align-self: stretch !important;
+  border-color: #1a1a74 !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.thestickerverse-com .component-176 {
+  font-weight: 500 !important;
+}
+
+.thestickerverse-com .component-177 {
+  align-self: stretch !important;
+  background-color: #c3ff00 !important;
+  box-shadow: 2px 2px 0px #ffffff !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.thestickerverse-com .link-margin-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 44px;
+  position: relative;
+  width: 32px;
+}
+
+.thestickerverse-com .component-178 {
+  left: unset !important;
+  margin-right: -12.00px !important;
+  top: unset !important;
+}
+
+.thestickerverse-com .container-372 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 592px;
+  left: 0;
+  position: absolute;
+  top: 2441px;
+  width: 1920px;
+}
+
+.thestickerverse-com .footer-13 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    161deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 60px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .container-373 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 29.99px;
+  max-width: 1600px;
+  padding: 0px 50px 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.thestickerverse-com .container-374 {
+  align-self: stretch;
+  height: 377.13px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .container-375 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 216px;
+  left: 0;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.thestickerverse-com .div-14 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .text-wrapper-137 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 23.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.thestickerverse-com .list-28 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.93px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .item-42 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 1.5px 0px 0px;
+  position: relative;
+  width: 469px;
+}
+
+.thestickerverse-com .item-43 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 469px;
+}
+
+.thestickerverse-com .component-179 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.5px 0px 4.69px !important;
+  top: unset !important;
+}
+
+.thestickerverse-com .container-376 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 216px;
+  left: 508px;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.thestickerverse-com .list-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.68e-14px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .container-377 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.3px;
+  height: 216px;
+  left: 1016px;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.thestickerverse-com .text-wrapper-138 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.thestickerverse-com .container-378 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 0;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.thestickerverse-com .container-379 {
+  align-self: stretch;
+  height: 99.8px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .container-380 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 508px;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.thestickerverse-com .container-381 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -9.00px;
+  padding: 0px 0px 8.8px;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .sticker-society-PNG-12 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 101px;
+  position: relative;
+  width: 388px;
+}
+
+.thestickerverse-com .container-382 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 1016px;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.thestickerverse-com .strong-sticker-13 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.thestickerverse-com .container-383 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.thestickerverse-com .list-30 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  justify-content: center;
+  position: relative;
+}
+
+.thestickerverse-com .item-44 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.thestickerverse-com .component-180 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.thestickerverse-com .horizontal-border-16 {
+  align-self: stretch;
+  border-color: #ffffff14;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 31px;
+  margin-top: -0.01px;
+  position: relative;
+  width: 100%;
+}

@@ -1,0 +1,97 @@
+.component-23 {
+  align-items: center;
+  border-radius: 11px;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+}
+
+.component-23 .text-14 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15.3px;
+  font-weight: 300;
+  letter-spacing: 1.02px;
+  line-height: 18.4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-23 .overlay-shadow-7 {
+  background-color: #ffffff01;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.component-23 .link-paints-4 {
+  background-color: #ffd713;
+  border-radius: 11px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.component-23 .text-15 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 1.00px;
+  line-height: 18px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-23.hover-20-true {
+  background-color: #ffd713;
+  left: 251px;
+  min-height: 47.94px;
+  min-width: 124.44px;
+}
+
+.component-23.variant-19-one {
+  height: calc(100.00% - 30px);
+  top: 30px;
+}
+
+.component-23.hover-20-false {
+  left: 30px;
+  min-height: 47px;
+  min-width: 122px;
+}
+
+.component-23.hover-20-true.variant-19-one {
+  padding: 0px 30.6px;
+}
+
+.component-23.variant-19-two.hover-20-false {
+  padding: 14.49px 30px 14.5px;
+  top: 109px;
+}
+
+.component-23.hover-20-true.variant-19-two {
+  padding: 14.46px 30.61px 14.47px 30.6px;
+}
+
+.component-23.variant-19-one.hover-20-false {
+  padding: 0px 30px;
+}
+
+.component-23.variant-19-two .text-14 {
+  margin-top: -1.00px;
+}
+
+.component-23.variant-19-two .text-15 {
+  margin-top: -0.99px;
+}

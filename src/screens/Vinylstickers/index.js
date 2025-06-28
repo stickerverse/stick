@@ -1,0 +1,1 @@
+export { Vinylstickers } from "./Vinylstickers";

@@ -1,0 +1,25 @@
+.component-38 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.component-38.hover-29-true {
+  left: 180px;
+  padding: 12.36px 12.37px 12.37px 12.36px;
+  width: calc(100.00% - 180px);
+}
+
+.component-38.variant-32-two {
+  top: 104px;
+}
+
+.component-38.variant-32-one {
+  top: 30px;
+}
+
+.component-38.hover-29-false {
+  left: 30px;
+  padding: 13px;
+  width: calc(100.00% - 30px);
+}

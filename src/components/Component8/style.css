@@ -1,0 +1,65 @@
+.component-8 {
+  align-items: center;
+  border: 1px solid;
+  border-radius: 10px;
+  display: inline-flex;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+}
+
+.component-8 .deals {
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-8.hover-2-true {
+  min-height: 40.8px;
+  padding: 1px 25.5px;
+}
+
+.component-8.variant-0-two {
+  background-color: #ffd713;
+  border-color: #8d9912;
+  box-shadow: 2px 2px 0px #cfaf13;
+  height: calc(100.00% - 108px);
+  top: 108px;
+}
+
+.component-8.variant-0-one {
+  background-color: #08084c;
+  border-color: #0f028c;
+  box-shadow: 3px 3px 0px #0000001a;
+  height: calc(100.00% - 30px);
+  top: 30px;
+}
+
+.component-8.hover-2-false {
+  min-height: 40px;
+  padding: 1px 25px;
+}
+
+.component-8.hover-2-true .deals {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}
+
+.component-8.variant-0-two .deals {
+  color: #000080;
+}
+
+.component-8.variant-0-one .deals {
+  color: #ffffff;
+}
+
+.component-8.hover-2-false .deals {
+  font-size: 14px;
+  letter-spacing: 0.60px;
+  line-height: 25.2px;
+}

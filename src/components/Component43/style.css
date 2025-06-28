@@ -1,0 +1,97 @@
+.component-43 {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px 30px 30px 8px;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  left: 30px;
+  padding: 10.75px 10.74px 10.75px 20.74px;
+  position: relative;
+  top: 30px;
+  width: calc(100.00% - 30px);
+}
+
+.component-43 .container-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.component-43 .text-30 {
+  color: #0b0264;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-43 .rectangle-2 {
+  flex: 1;
+  flex-grow: 1;
+  height: 10px;
+  margin-left: -1.91e-06px;
+  position: relative;
+}
+
+.component-43 .margin-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 19.99px;
+  margin-left: -1.91e-06px;
+  padding: 0px 5px 0px 0px;
+  position: relative;
+  width: 27.3px;
+}
+
+.component-43 .container-14 {
+  align-items: center;
+  display: flex;
+  height: 19.99px;
+  justify-content: center;
+  margin-right: -2.31px;
+  opacity: 0.5;
+  position: relative;
+  width: 24.61px;
+}
+
+.component-43 .container-15 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  position: relative;
+}
+
+.component-43 .container-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.component-43 .component-18 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 24.61px !important;
+}
+
+.component-43:hover {
+  left: 390px;
+  opacity: 0.8;
+  width: calc(100.00% - 390px);
+}

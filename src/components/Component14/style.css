@@ -1,0 +1,88 @@
+.component-14 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.component-14 .class-9 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.component-14 .class-10 {
+  height: 19.26px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 19.26px !important;
+}
+
+.component-14 .class-11 {
+  height: 47.08px !important;
+  left: unset !important;
+  margin-bottom: -1.54px !important;
+  margin-top: -1.54px !important;
+  position: relative !important;
+  top: unset !important;
+  width: 47.08px !important;
+}
+
+.component-14 .class-12 {
+  height: 19.27px !important;
+  left: unset !important;
+  margin-top: -0.01px !important;
+  position: relative !important;
+  top: unset !important;
+  width: 19.26px !important;
+}
+
+.component-14.hover-13-true {
+  left: 180px;
+}
+
+.component-14.variant-14-three {
+  height: 44px;
+  justify-content: center;
+  top: 184px;
+}
+
+.component-14.hover-13-false {
+  left: 30px;
+}
+
+.component-14.variant-14-two {
+  top: 107px;
+}
+
+.component-14.variant-14-one {
+  top: 30px;
+}
+
+.component-14.variant-14-three.hover-13-false {
+  width: 44px;
+}
+
+.component-14.variant-14-one.hover-13-false {
+  padding: 13px;
+  width: calc(100.00% - 30px);
+}
+
+.component-14.hover-13-true.variant-14-two {
+  padding: 12.37px;
+  width: calc(100.00% - 180px);
+}
+
+.component-14.hover-13-true.variant-14-one {
+  padding: 12.37px;
+  width: calc(100.00% - 180px);
+}
+
+.component-14.variant-14-two.hover-13-false {
+  padding: 13px;
+  width: calc(100.00% - 30px);
+}
+
+.component-14.hover-13-true.variant-14-three {
+  width: 47px;
+}

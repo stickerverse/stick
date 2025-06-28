@@ -1,0 +1,938 @@
+.account-orders {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.account-orders .body-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #070140;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 1230px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-246 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 84.49px;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+}
+
+.account-orders .background-12 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    177deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .header-9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 10px;
+  justify-content: space-between;
+  max-width: 1600px;
+  padding: 16px 50px 0px 49.99px;
+  position: relative;
+  width: 1600px;
+}
+
+.account-orders .link-margin-16 {
+  height: 68.5px;
+  position: relative;
+  width: 107.5px;
+}
+
+.account-orders .link-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: -8px;
+  padding: 7.5px;
+  position: relative;
+}
+
+.account-orders .sticker-shuttle-10 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: block;
+  height: 64px;
+  position: relative;
+  width: 252px;
+}
+
+.account-orders .container-247 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.account-orders .component-132 {
+  align-self: stretch !important;
+  border-color: #1a1a74 !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.account-orders .component-133 {
+  font-weight: 500 !important;
+}
+
+.account-orders .component-134 {
+  align-self: stretch !important;
+  background-color: #c3ff00 !important;
+  box-shadow: 2px 2px 0px #ffffff !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.account-orders .link-margin-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 43.99px;
+  position: relative;
+  width: 31.99px;
+}
+
+.account-orders .component-135 {
+  height: 43.99px !important;
+  left: unset !important;
+  margin-right: -12.00px !important;
+  top: unset !important;
+  width: 43.99px !important;
+}
+
+.account-orders .main-9 {
+  align-items: flex-start;
+  background-color: #070140;
+  display: flex;
+  flex-direction: column;
+  height: 710.91px;
+  max-width: 2592px;
+  padding: 70px 0px 49.99px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.account-orders .container-248 {
+  align-items: flex-start;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 20px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.account-orders .container-249 {
+  height: 49.99px;
+  max-width: 2569.5px;
+  position: relative;
+  width: 1440px;
+}
+
+.account-orders .container-250 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 90px;
+  left: 720px;
+  position: relative;
+  width: 720px;
+}
+
+.account-orders .text-wrapper-67 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: 0.60px;
+  line-height: 90px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-orders .container-251 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-252 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  max-width: 2569.5px;
+  position: relative;
+  width: 1440px;
+}
+
+.account-orders .container-253 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-254 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 39.99px;
+  position: relative;
+  width: 330px;
+}
+
+.account-orders .container-255 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  left: 0;
+  max-width: 2592px;
+  position: absolute;
+  top: -45px;
+  width: 68.20%;
+}
+
+.account-orders .container-256 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.account-orders .welcome-stephen {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-orders .text-wrapper-68 {
+  font-family: var(--stickershuttle-com-montserrat-light-font-family);
+  font-size: var(--stickershuttle-com-montserrat-light-font-size);
+  font-style: var(--stickershuttle-com-montserrat-light-font-style);
+  font-weight: var(--stickershuttle-com-montserrat-light-font-weight);
+  letter-spacing: var(--stickershuttle-com-montserrat-light-letter-spacing);
+  line-height: var(--stickershuttle-com-montserrat-light-line-height);
+}
+
+.account-orders .text-wrapper-69 {
+  font-family: var(--stickershuttle-com-montserrat-semibold-font-family);
+  font-size: var(--stickershuttle-com-montserrat-semibold-font-size);
+  font-style: var(--stickershuttle-com-montserrat-semibold-font-style);
+  font-weight: var(--stickershuttle-com-montserrat-semibold-font-weight);
+  letter-spacing: var(--stickershuttle-com-montserrat-semibold-letter-spacing);
+  line-height: var(--stickershuttle-com-montserrat-semibold-line-height);
+}
+
+.account-orders .container-257 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .component-136 {
+  align-self: stretch !important;
+  height: 49.99px !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-orders .container-258 {
+  align-self: stretch;
+  height: 260.98px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .margin-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 8px;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.account-orders .div-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .text-wrapper-70 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-orders .container-259 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 10px 0px;
+  position: absolute;
+  top: 155px;
+  width: 330px;
+}
+
+.account-orders .component-9-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 43px;
+  max-width: 330px;
+  padding: 0px 0px 7px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .component-9-instance {
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-orders .link-margin-18 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 43px;
+  margin-top: -0.01px;
+  max-width: 330px;
+  padding: 0px 0px 7px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .component-137 {
+  border-color: #0f028c !important;
+  left: unset !important;
+  padding: 10.38px 10.75px 11.62px !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-orders .background-border-36 {
+  align-items: flex-start;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000014;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 117px;
+  padding: 20.74px 15.75px 42.26px 10.75px;
+  position: absolute;
+  top: 38px;
+  width: 330px;
+}
+
+.account-orders .margin-14 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 15px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-260 {
+  align-self: stretch;
+  height: 19.5px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .margin-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 25px;
+  justify-content: center;
+  left: 0;
+  padding: 0px 5px 0px 0px;
+  position: absolute;
+  top: -3px;
+}
+
+.account-orders .container-261 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 24.75px;
+  position: relative;
+}
+
+.account-orders .container-262 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.account-orders .component-138 {
+  height: 24.74px !important;
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 25.6px !important;
+}
+
+.account-orders .text-wrapper-71 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  height: 14px;
+  left: 31px;
+  letter-spacing: 0.60px;
+  line-height: 14px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 153px;
+}
+
+.account-orders .text-wrapper-72 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  height: 18px;
+  left: 31px;
+  letter-spacing: 0.60px;
+  line-height: 18px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.account-orders .container-263 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.account-orders .container-264 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.25px;
+  padding: 0px 0px 30px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-265 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  height: 49.99px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-266 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .text-wrapper-73 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.account-orders .container-267 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.74px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .text-wrapper-74 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-orders .container-268 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  margin-top: -8px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .background-border-37 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  box-shadow: 0px 3px 10px #00000014;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 26.04px;
+  min-height: 117px;
+  padding: 15px 15.75px 10.73px;
+  position: relative;
+}
+
+.account-orders .margin-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 5px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .text-wrapper-75 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.60px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-orders .table-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 8px 0px 5px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .table {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #0b0264;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0.88px 871.66px 1.62px 1.5px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .text-wrapper-76 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 13px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 19.5px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-orders .container-269 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 593.12px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+.account-orders .footer-9 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    164deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 60px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-270 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 1600px;
+  padding: 0px 50px 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.account-orders .container-271 {
+  align-self: stretch;
+  height: 378.39px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-272 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.99px;
+  height: 217px;
+  left: 0;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.account-orders .text-wrapper-77 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 23.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-orders .list-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.77px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .component-10-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2.38px 0px 0px;
+  position: relative;
+  width: 469.01px;
+}
+
+.account-orders .component-10-instance {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.account-orders .item-32 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 469.01px;
+}
+
+.account-orders .component-139 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.36px 0px 4.82px !important;
+  top: unset !important;
+}
+
+.account-orders .component-140 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.38px 0px 4.82px !important;
+  top: unset !important;
+}
+
+.account-orders .container-273 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.99px;
+  height: 217px;
+  left: 508px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.account-orders .list-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.26e-14px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .container-274 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.99px;
+  height: 217px;
+  left: 1016px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.account-orders .text-wrapper-78 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-orders .container-275 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 508px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 277px;
+  width: 484px;
+}
+
+.account-orders .container-276 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -8.50px;
+  padding: 0px 0px 8.54px;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .sticker-society-PNG-9 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 101px;
+  position: relative;
+  width: 388px;
+}
+
+.account-orders .container-277 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 1016px;
+  max-width: 1500.01px;
+  position: absolute;
+  top: 277px;
+  width: 484px;
+}
+
+.account-orders .strong-sticker-10 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.account-orders .container-278 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.account-orders .list-22 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 7.11e-15px;
+  justify-content: center;
+  position: relative;
+}
+
+.account-orders .component-11-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.account-orders .component-11-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.account-orders .component-141 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.account-orders .horizontal-border-9 {
+  align-self: stretch;
+  border-color: #ffffff14;
+  border-top-style: solid;
+  border-top-width: 0.75px;
+  height: 30.75px;
+  position: relative;
+  width: 100%;
+}

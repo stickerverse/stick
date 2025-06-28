@@ -1,0 +1,71 @@
+.component-29 {
+  align-items: center;
+  border: 1px solid;
+  border-radius: 10px;
+  display: inline-flex;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+}
+
+.component-29 .text-19 {
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-29.hover-24-true {
+  min-height: 40.8px;
+}
+
+.component-29.variant-27-two {
+  background-color: #ffd713;
+  border-color: #8d9912;
+  box-shadow: 2px 2px 0px #cfaf13;
+  height: calc(100.00% - 108px);
+  top: 108px;
+}
+
+.component-29.variant-27-one {
+  background-color: #08084c;
+  border-color: #0f028c;
+  box-shadow: 3px 3px 0px #0000001a;
+  height: calc(100.00% - 30px);
+  top: 30px;
+}
+
+.component-29.hover-24-false {
+  min-height: 40px;
+  padding: 0.75px 24.75px;
+}
+
+.component-29.hover-24-true.variant-27-one {
+  padding: 0.75px 25.25px 0.75px 25.24px;
+}
+
+.component-29.hover-24-true.variant-27-two {
+  padding: 0.75px 25.24px 0.75px 25.25px;
+}
+
+.component-29.hover-24-true .text-19 {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}
+
+.component-29.variant-27-two .text-19 {
+  color: #000080;
+}
+
+.component-29.variant-27-one .text-19 {
+  color: #ffffff;
+}
+
+.component-29.hover-24-false .text-19 {
+  font-size: 14px;
+  letter-spacing: 0.60px;
+  line-height: 25.2px;
+}

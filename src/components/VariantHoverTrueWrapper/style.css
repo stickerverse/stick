@@ -1,0 +1,55 @@
+.variant-hover-true-wrapper {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.variant-hover-true-wrapper.hover-1-true {
+  left: 180px;
+}
+
+.variant-hover-true-wrapper.variant-three {
+  height: 44px;
+  justify-content: center;
+  top: 184px;
+}
+
+.variant-hover-true-wrapper.hover-1-false {
+  left: 30px;
+}
+
+.variant-hover-true-wrapper.variant-two {
+  top: 107px;
+}
+
+.variant-hover-true-wrapper.variant-one {
+  top: 30px;
+}
+
+.variant-hover-true-wrapper.variant-three.hover-1-false {
+  width: 44px;
+}
+
+.variant-hover-true-wrapper.variant-one.hover-1-false {
+  padding: 13px;
+  width: calc(100.00% - 30px);
+}
+
+.variant-hover-true-wrapper.hover-1-true.variant-two {
+  padding: 12.37px;
+  width: calc(100.00% - 180px);
+}
+
+.variant-hover-true-wrapper.hover-1-true.variant-one {
+  padding: 12.37px;
+  width: calc(100.00% - 180px);
+}
+
+.variant-hover-true-wrapper.variant-two.hover-1-false {
+  padding: 13px;
+  width: calc(100.00% - 30px);
+}
+
+.variant-hover-true-wrapper.hover-1-true.variant-three {
+  width: 47px;
+}

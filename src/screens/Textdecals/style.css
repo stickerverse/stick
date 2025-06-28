@@ -1,0 +1,1096 @@
+.textdecals {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  gap: 10px;
+  height: 4570px;
+  min-width: 1920px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .body {
+  align-items: flex-start;
+  background-color: #070140;
+  display: flex;
+  flex-direction: column;
+  height: 4570px;
+  position: relative;
+  width: 1920px;
+}
+
+.textdecals .container-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 3619.64px;
+  position: relative;
+  width: 1920px;
+}
+
+.textdecals .main {
+  height: 2245px;
+  position: relative;
+  width: 1920px;
+}
+
+.textdecals .section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.textdecals .background-border-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1600px;
+  padding: 16px 50px 0px;
+  position: relative;
+  width: 1600px;
+}
+
+.textdecals .background-border {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #070140;
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  min-height: 420px;
+  overflow: hidden;
+  padding: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .overlay {
+  background-color: #ffffff1a;
+  height: 99.52%;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0.24%;
+  width: 99.87%;
+}
+
+.textdecals .stickershuttle {
+  background-image: url(../../../static/img/stickershuttle-banner-purplecustomstickers-36912e76-3eb1-4906-a6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 418px;
+  left: -28px;
+  position: relative;
+  width: 1511px;
+}
+
+.textdecals .container-20 {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  max-width: 1600px;
+  position: relative;
+}
+
+.textdecals .section-2 {
+  background-color: #070140;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 442px;
+  width: 1920px;
+}
+
+.textdecals .section-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 468px;
+  width: 1920px;
+}
+
+.textdecals .background-border-2 {
+  align-items: center;
+  background-color: #f3ff00;
+  border: 2px dashed;
+  border-color: #bfd207;
+  border-radius: 16px;
+  box-shadow: 3px 3px 0px #8a970fcc;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 18px 2px;
+  position: relative;
+  width: 1500px;
+}
+
+.textdecals .container-21 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.textdecals .container-22 {
+  align-self: stretch;
+  height: 29px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .background-wrapper {
+  align-self: stretch;
+  height: 677px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .background-2 {
+  align-items: center;
+  background-color: #070140;
+  display: flex;
+  flex-direction: column;
+  height: 110px;
+  position: relative;
+  top: 7px;
+  width: 1920px;
+}
+
+.textdecals .container-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 110px;
+  max-width: 1600px;
+  padding: 0px 50px 24px;
+  position: relative;
+  width: 1600px;
+}
+
+.textdecals .container-24 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 24px;
+  height: 103px;
+  margin-bottom: -17.00px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .container-25 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 483.95px;
+  position: relative;
+}
+
+.textdecals .background-border-3 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  padding: 21px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .container-26 {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  position: relative;
+  width: 50px;
+}
+
+.textdecals .container-27 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -4.00px;
+  margin-top: -4.00px;
+  position: relative;
+}
+
+.textdecals .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 57.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.textdecals .container-28 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 0px;
+  position: relative;
+}
+
+.textdecals .div-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .text-wrapper-4 {
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-inter-regular-font-family);
+  font-size: var(--stickershuttle-com-inter-regular-font-size);
+  font-style: var(--stickershuttle-com-inter-regular-font-style);
+  font-weight: var(--stickershuttle-com-inter-regular-font-weight);
+  letter-spacing: var(--stickershuttle-com-inter-regular-letter-spacing);
+  line-height: var(--stickershuttle-com-inter-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.textdecals .background-border-4 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 9.48px;
+  padding: 21px 262.33px 21px 14.46px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .rectangle-wrapper {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  position: relative;
+  width: 63.06px;
+}
+
+.textdecals .rectangle-3 {
+  height: 57.59px;
+  margin-bottom: -3.80px;
+  margin-top: -3.80px;
+  position: relative;
+  width: 63.06px;
+}
+
+.textdecals .container-29 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -1.38px;
+  padding: 16px 0px;
+  position: relative;
+}
+
+.textdecals .section-4 {
+  align-items: center;
+  background-color: #070140;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 1920px;
+}
+
+.textdecals .slider-component-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1600px;
+  padding: 0px 50px 16px;
+  position: relative;
+  width: 1600px;
+}
+
+.textdecals .slider-component {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 357px;
+  position: relative;
+}
+
+.textdecals .container-30 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 31px 1px 21px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .background-border-5 {
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 16px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.textdecals .container-31 {
+  background-image: url(../../../static/img/stickershuttle-helmet-png-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 305px;
+  position: relative;
+  width: 305px;
+}
+
+.textdecals .container-32 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.4px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .div-wrapper-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .text-wrapper-5 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-semantic-heading-3-font-family);
+  font-size: var(--stickershuttle-com-semantic-heading-3-font-size);
+  font-style: var(--stickershuttle-com-semantic-heading-3-font-style);
+  font-weight: var(--stickershuttle-com-semantic-heading-3-font-weight);
+  letter-spacing: var(--stickershuttle-com-semantic-heading-3-letter-spacing);
+  line-height: var(--stickershuttle-com-semantic-heading-3-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.textdecals .text-wrapper-6 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.textdecals .container-33 {
+  height: 305px;
+  position: relative;
+  width: 305px;
+}
+
+.textdecals .stickershuttle-2 {
+  background-image: url(../../../static/img/stickershuttle-bottle-png-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 305px;
+  left: 51px;
+  position: relative;
+  width: 203px;
+}
+
+.textdecals .great-for-water-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 29px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .stickershuttle-board {
+  background-image: url(../../../static/img/stickershuttle-board-150b2de5-5194-4773-b983-0a4f746602a4-png-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 305px;
+  left: 51px;
+  position: relative;
+  width: 203px;
+}
+
+.textdecals .container-34 {
+  background-image: url(../../../static/img/stickershuttle-visitmars-png-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 305px;
+  position: relative;
+  width: 305px;
+}
+
+.textdecals .footer {
+  align-items: center;
+  background: linear-gradient(
+    161deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 1920px;
+}
+
+.textdecals .container-35 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 29.99px;
+  max-width: 1600px;
+  padding: 0px 50px 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.textdecals .container-36 {
+  align-self: stretch;
+  height: 377.13px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .container-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 216px;
+  left: 0;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.textdecals .text-wrapper-7 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 23.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.textdecals .list {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.93px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .component-5-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 1.5px 0px 0px;
+  position: relative;
+  width: 469px;
+}
+
+.textdecals .component-5-instance {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.textdecals .item-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 469px;
+}
+
+.textdecals .design-component-instance-node {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.5px 0px 4.69px !important;
+  top: unset !important;
+}
+
+.textdecals .container-38 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 216px;
+  left: 508px;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.textdecals .item-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .container-39 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.3px;
+  height: 216px;
+  left: 1016px;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.textdecals .text-wrapper-8 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.textdecals .container-40 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 0;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.textdecals .container-41 {
+  align-self: stretch;
+  height: 99.8px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .container-42 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 508px;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.textdecals .sticker-society-PNG-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -8.00px;
+  padding: 0px 0px 8.8px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .sticker-society-PNG {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100px;
+  position: relative;
+  width: 385px;
+}
+
+.textdecals .container-43 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 1016px;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.textdecals .strong-sticker {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.textdecals .list-wrapper {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .list-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 44px;
+  justify-content: center;
+  position: relative;
+}
+
+.textdecals .component-6-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.textdecals .component-6-instance {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.textdecals .component-30 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.textdecals .horizontal-border {
+  align-self: stretch;
+  border-color: #ffffff14;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 1px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .container-44 {
+  height: calc(100.00% - 3325px);
+  left: 0;
+  position: absolute;
+  top: 2375px;
+  width: 100%;
+}
+
+.textdecals .website {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 1188px;
+  left: 0;
+  max-height: 1188px;
+  max-width: 1900.8px;
+  position: absolute;
+  top: 0;
+  width: 1901px;
+}
+
+.textdecals .image-fill {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1188px;
+  justify-content: center;
+  padding: 0px 356.4px;
+  position: relative;
+  width: 1900.8px;
+}
+
+.textdecals .component-1 {
+  position: relative !important;
+}
+
+.textdecals .container-45 {
+  height: calc(100.00% - 3832px);
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.textdecals .header-wrapper {
+  align-items: flex-start;
+  background: linear-gradient(
+    176deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 0;
+  padding: 0px 160px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.textdecals .header {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 10px;
+  max-width: 1600px;
+  padding: 16px 50px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .link-margin {
+  height: 69px;
+  position: relative;
+  width: 107.5px;
+}
+
+.textdecals .link {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: -8px;
+  padding: 7.5px;
+  position: relative;
+}
+
+.textdecals .sticker-shuttle {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: block;
+  height: 62px;
+  position: relative;
+  width: 252px;
+}
+
+.textdecals .nav-margin {
+  flex: 1;
+  flex-grow: 1;
+  height: 10.5px;
+  position: relative;
+}
+
+.textdecals .container-46 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.textdecals .component-8-instance {
+  align-self: stretch !important;
+  border-color: #1a1a74 !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.textdecals .component-40 {
+  font-weight: 500 !important;
+}
+
+.textdecals .component-50 {
+  align-self: stretch !important;
+  background-color: #c3ff00 !important;
+  border-color: #000000 !important;
+  box-shadow: 2px 2px 0px #ffffff !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.textdecals .link-margin-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 44px;
+  position: relative;
+  width: 32px;
+}
+
+.textdecals .component-51 {
+  left: unset !important;
+  margin-right: -12.00px !important;
+  top: unset !important;
+}
+
+.textdecals .frame {
+  height: 1104px;
+  left: 254px;
+  position: absolute;
+  top: 93px;
+  width: 1402px;
+}
+
+.textdecals .overlap-group-3 {
+  height: 339px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 1151px;
+}
+
+.textdecals .container-47 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 701px;
+  max-width: 680px;
+  min-width: 450px;
+  padding: 40px 35px;
+  position: absolute;
+  top: 130px;
+}
+
+.textdecals .heading {
+  align-self: stretch;
+  height: 52px;
+  position: relative;
+  width: 100%;
+}
+
+.textdecals .container-48 {
+  height: 47px;
+  max-width: 450px;
+  position: relative;
+  width: 185px;
+}
+
+.textdecals .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  height: 202px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 848px;
+}
+
+.textdecals .span-wrapper {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 17px;
+  position: relative;
+}
+
+.textdecals .span {
+  letter-spacing: 0.09px;
+}
+
+.textdecals .all-orders-with {
+  color: #08084c;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 184px;
+  left: 0;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  position: absolute;
+  text-align: center;
+  top: 735px;
+  width: 780px;
+}
+
+.textdecals .text-wrapper-9 {
+  font-weight: 300;
+  letter-spacing: 0.10px;
+}
+
+.textdecals .text-wrapper-10 {
+  font-weight: 700;
+  letter-spacing: 0.10px;
+}
+
+.textdecals .component-52 {
+  align-items: center;
+  border-radius: 11px;
+  display: inline-flex;
+  height: 47px;
+  justify-content: center;
+  left: 0;
+  min-width: 122px;
+  padding: 14px 30px 15px;
+  position: absolute;
+  top: 282px;
+}
+
+.textdecals .link-paints-5 {
+  background-color: #ffd713;
+  border-radius: 11px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.textdecals .text-wrapper-11 {
+  color: #000000;
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 1.00px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.textdecals .overlay-shadow-8 {
+  background-color: #ffffff01;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.textdecals .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  height: 50px;
+  left: 0;
+  letter-spacing: 0.60px;
+  line-height: 15px;
+  position: absolute;
+  top: -1px;
+  width: 848px;
+}

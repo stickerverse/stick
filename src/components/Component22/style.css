@@ -1,0 +1,141 @@
+.component-22 {
+  justify-content: center;
+}
+
+.component-22 .p {
+  position: relative;
+  text-align: center;
+}
+
+.component-22.variant-17-three {
+  align-items: center;
+  background-color: #ffd713;
+  border: 1px solid;
+  border-color: #8d9912;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  display: inline-flex;
+  height: calc(100.00% - 280px);
+  position: absolute;
+  right: 0;
+  top: 280px;
+}
+
+.component-22.variant-17-two {
+  align-items: center;
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 10px;
+  box-shadow: 3px 3px 0px #0000001a;
+  display: inline-flex;
+  height: calc(100.00% - 155px);
+  position: absolute;
+  right: 0;
+  top: 155px;
+}
+
+.component-22.variant-17-one {
+  align-items: flex-start;
+  background: linear-gradient(
+    174deg,
+    rgba(243, 255, 0, 1) 0%,
+    rgba(255, 216, 31, 1) 100%
+  );
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px #e2f31a;
+  display: flex;
+  padding: 0px 35px;
+  position: relative;
+  top: 30px;
+}
+
+.component-22.variant-17-three.hover-18-false {
+  min-height: 40px;
+  padding: 1px 25px;
+}
+
+.component-22.variant-17-one.hover-18-false {
+  left: 30px;
+  width: calc(100.00% - 30px);
+}
+
+.component-22.hover-18-true.variant-17-two {
+  min-height: 40.8px;
+  padding: 1px 25.5px;
+}
+
+.component-22.hover-18-true.variant-17-one {
+  left: 906px;
+  width: calc(100.00% - 906px);
+}
+
+.component-22.variant-17-two.hover-18-false {
+  min-height: 40px;
+  padding: 1px 25px;
+}
+
+.component-22.hover-18-true.variant-17-three {
+  min-height: 40.8px;
+  padding: 1px 25.5px;
+}
+
+.component-22.hover-18-true .p {
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-22.variant-17-three .p {
+  color: #000080;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-22.variant-17-two .p {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-22.variant-17-one .p {
+  color: #111111;
+  font-family: var(--stickershuttle-com-inter-light-font-family);
+  font-size: var(--stickershuttle-com-inter-light-font-size);
+  font-style: var(--stickershuttle-com-inter-light-font-style);
+  font-weight: var(--stickershuttle-com-inter-light-font-weight);
+  letter-spacing: var(--stickershuttle-com-inter-light-letter-spacing);
+  line-height: var(--stickershuttle-com-inter-light-line-height);
+  margin-top: -1.00px;
+}
+
+.component-22.variant-17-three.hover-18-false .p {
+  font-size: 14px;
+  letter-spacing: 0.60px;
+  line-height: 25.2px;
+}
+
+.component-22.variant-17-one.hover-18-false .p {
+  flex: 1;
+}
+
+.component-22.hover-18-true.variant-17-two .p {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}
+
+.component-22.variant-17-two.hover-18-false .p {
+  font-size: 14px;
+  letter-spacing: 0.60px;
+  line-height: 25.2px;
+}
+
+.component-22.hover-18-true.variant-17-three .p {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}

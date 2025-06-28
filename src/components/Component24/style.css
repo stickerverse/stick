@@ -1,0 +1,79 @@
+.component-24 {
+  display: inline-flex;
+  justify-content: center;
+  min-height: 40px;
+  padding: 0.75px 24.75px;
+}
+
+.component-24 .text-16 {
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-24.variant-22-three {
+  border: 1px solid;
+  border-radius: 10px;
+  right: 0;
+}
+
+.component-24 {
+  border: 1px solid;
+  border-radius: 10px;
+  right: 0;
+}
+
+.component-24.variant-22-two {
+  border: 1px solid;
+  border-radius: 10px;
+  right: 0;
+}
+
+.component-24.variant-22-one {
+  border: 1px solid;
+  border-radius: 10px;
+  right: 0;
+}
+
+.component-24.variant-22-two .text-16 {
+  font-size: 14px;
+  line-height: 25.2px;
+}
+
+.component-24.variant-22-three .text-16 {
+  font-size: 14px;
+  line-height: 25.2px;
+}
+
+.component-24.variant-22-one .text-16 {
+  font-size: 16px;
+  line-height: 28.8px;
+}
+
+.component-24:hover {
+  min-height: 40.8px;
+}
+
+.component-24:hover .text-16 {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}
+
+.component-24:hover {
+  border: 1px solid;
+  border-radius: 10px;
+  right: 0;
+}
+
+.component-24:hover.variant-22-two {
+  padding: 0.75px 25.25px 0.75px 25.24px;
+}
+
+.component-24:hover.variant-22-three {
+  padding: 0.75px 25.24px 0.75px 25.25px;
+}

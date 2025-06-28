@@ -1,0 +1,87 @@
+.component-34 {
+  align-items: center;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  left: 30px;
+  padding: 10.75px 10.74px 10.75px 20.74px;
+  position: relative;
+  top: 30px;
+  width: calc(100.00% - 30px);
+}
+
+.component-34 .container-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.component-34 .text-23 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-34 .margin-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 19.99px;
+  padding: 0px 5px 0px 0px;
+  position: relative;
+  width: 27.3px;
+}
+
+.component-34 .container-6 {
+  align-items: center;
+  display: flex;
+  height: 19.99px;
+  justify-content: center;
+  margin-right: -2.31px;
+  position: relative;
+  width: 24.61px;
+}
+
+.component-34 .container-7 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  position: relative;
+}
+
+.component-34 .component-4-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.component-34 .component-4-instance {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+  width: 24.61px !important;
+}
+
+.component-34:hover {
+  left: 390px;
+  opacity: 0.8;
+  width: calc(100.00% - 390px);
+}

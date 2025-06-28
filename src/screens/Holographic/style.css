@@ -1,0 +1,1133 @@
+.holographic {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  gap: 10px;
+  height: 4570px;
+  min-width: 1920px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .body-8 {
+  align-items: flex-start;
+  background-color: #070140;
+  display: flex;
+  flex-direction: column;
+  height: 4570px;
+  position: relative;
+  width: 1920px;
+}
+
+.holographic .container-284 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 3619.64px;
+  position: relative;
+  width: 1920px;
+}
+
+.holographic .main-10 {
+  height: 2245px;
+  position: relative;
+  width: 1920px;
+}
+
+.holographic .section-20 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.holographic .container-285 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1600px;
+  padding: 16px 50px 0px;
+  position: relative;
+  width: 1600px;
+}
+
+.holographic .background-border-39 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #070140;
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  min-height: 420px;
+  overflow: hidden;
+  padding: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .overlay-9 {
+  background-color: #ffffff1a;
+  height: 99.52%;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0.24%;
+  width: 99.87%;
+}
+
+.holographic .stickershuttle-9 {
+  background-image: url(../../../static/img/stickershuttle-banner-purplecustomstickers-36912e76-3eb1-4906-a6-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 418px;
+  width: 1498px;
+}
+
+.holographic .container-286 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  max-width: 1600px;
+  padding: 0px 50px;
+  position: relative;
+}
+
+.holographic .container-287 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 680px;
+  min-width: 450px;
+  padding: 40px 35px;
+  position: relative;
+}
+
+.holographic .flexcontainer-wrapper {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .flexcontainer-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 269px;
+  left: -26px;
+  position: relative;
+  top: 6px;
+  width: 848px;
+}
+
+.holographic .text-38 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 35px;
+  position: relative;
+}
+
+.holographic .text-wrapper-107 {
+  letter-spacing: 0.21px;
+  line-height: 84px;
+}
+
+.holographic .text-wrapper-108 {
+  font-size: 15px;
+  letter-spacing: 0.09px;
+  line-height: 21px;
+}
+
+.holographic .container-288 {
+  flex: 0 0 auto;
+  max-width: 450px;
+  position: relative;
+}
+
+.holographic .component-142 {
+  align-items: center;
+  border-radius: 11px;
+  display: inline-flex;
+  height: 47px;
+  justify-content: center;
+  left: -27px;
+  min-width: 122px;
+  padding: 14px 30px 15px;
+  position: relative;
+  top: 44px;
+}
+
+.holographic .link-paints-7 {
+  background-color: #ffd713;
+  border-radius: 11px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.holographic .text-wrapper-109 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 1.00px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.holographic .overlay-shadow-12 {
+  background-color: #ffffff01;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  display: block;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.holographic .section-21 {
+  background-color: #070140;
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 442px;
+  width: 1920px;
+}
+
+.holographic .section-22 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 468px;
+  width: 1920px;
+}
+
+.holographic .background-border-40 {
+  align-items: center;
+  background-color: #f3ff00;
+  border: 2px dashed;
+  border-color: #bfd207;
+  border-radius: 16px;
+  box-shadow: 3px 3px 0px #8a970fcc;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 18px 2px;
+  position: relative;
+  width: 1500px;
+}
+
+.holographic .container-289 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.holographic .div-wrapper-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .all-orders-with-5 {
+  align-self: stretch;
+  color: #08084c;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.holographic .text-wrapper-110 {
+  font-weight: 300;
+  letter-spacing: 0.10px;
+}
+
+.holographic .text-wrapper-111 {
+  font-weight: 700;
+  letter-spacing: 0.10px;
+}
+
+.holographic .section-23 {
+  background-color: #070140;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 539px;
+  width: 1920px;
+}
+
+.holographic .section-24 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 722px;
+  left: 0;
+  position: absolute;
+  top: 569px;
+  width: 1920px;
+}
+
+.holographic .screenshot-3 {
+  height: 628px;
+  position: relative;
+  width: 1391.29px;
+}
+
+.holographic .product-options-wrapper {
+  height: 1676px;
+  margin-bottom: -1582.00px;
+  max-width: 1600px;
+  position: relative;
+  width: 1600px;
+}
+
+.holographic .product-options {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 50px;
+  padding: 0px 0px 6px;
+  position: relative;
+  width: 1500px;
+}
+
+.holographic .container-290 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 943.53px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .container-291 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+}
+
+.holographic .container-292 {
+  height: 943.53px;
+  position: relative;
+  width: 1500px;
+}
+
+.holographic .container-293 {
+  align-self: stretch;
+  height: 677px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .background-16 {
+  align-items: center;
+  background-color: #070140;
+  display: flex;
+  flex-direction: column;
+  height: 110px;
+  position: relative;
+  top: 7px;
+  width: 1920px;
+}
+
+.holographic .container-294 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 110px;
+  max-width: 1600px;
+  padding: 0px 50px 24px;
+  position: relative;
+  width: 1600px;
+}
+
+.holographic .container-295 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 24px;
+  height: 103px;
+  margin-bottom: -17.00px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .container-296 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 483.95px;
+  position: relative;
+}
+
+.holographic .background-border-41 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  padding: 21px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .container-297 {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  position: relative;
+  width: 50px;
+}
+
+.holographic .container-298 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -4.00px;
+  margin-top: -4.00px;
+  position: relative;
+}
+
+.holographic .text-wrapper-112 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 57.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.holographic .container-299 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 0px;
+  position: relative;
+}
+
+.holographic .div-12 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .text-wrapper-113 {
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-inter-regular-font-family);
+  font-size: var(--stickershuttle-com-inter-regular-font-size);
+  font-style: var(--stickershuttle-com-inter-regular-font-style);
+  font-weight: var(--stickershuttle-com-inter-regular-font-weight);
+  letter-spacing: var(--stickershuttle-com-inter-regular-letter-spacing);
+  line-height: var(--stickershuttle-com-inter-regular-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.holographic .background-border-42 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 9.48px;
+  padding: 21px 262.33px 21px 14.46px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .container-300 {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  position: relative;
+  width: 63.06px;
+}
+
+.holographic .rectangle-8 {
+  height: 57.59px;
+  margin-bottom: -3.80px;
+  margin-top: -3.80px;
+  position: relative;
+  width: 63.06px;
+}
+
+.holographic .container-301 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -1.38px;
+  padding: 16px 0px;
+  position: relative;
+}
+
+.holographic .section-25 {
+  align-items: center;
+  background-color: #070140;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 1920px;
+}
+
+.holographic .container-302 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1600px;
+  padding: 0px 50px 16px;
+  position: relative;
+  width: 1600px;
+}
+
+.holographic .slider-component-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .item-33 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  max-width: 357px;
+  position: relative;
+}
+
+.holographic .container-303 {
+  align-items: center;
+  align-self: stretch;
+  border-radius: 16px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 31px 1px 21px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .background-border-43 {
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 16px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.holographic .container-304 {
+  background-image: url(../../../static/img/stickershuttle-helmet-png-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 305px;
+  position: relative;
+  width: 305px;
+}
+
+.holographic .container-305 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.4px;
+  padding: 30px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .text-wrapper-114 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: var(--stickershuttle-com-semantic-heading-3-font-family);
+  font-size: var(--stickershuttle-com-semantic-heading-3-font-size);
+  font-style: var(--stickershuttle-com-semantic-heading-3-font-style);
+  font-weight: var(--stickershuttle-com-semantic-heading-3-font-weight);
+  letter-spacing: var(--stickershuttle-com-semantic-heading-3-letter-spacing);
+  line-height: var(--stickershuttle-com-semantic-heading-3-line-height);
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.holographic .text-wrapper-115 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.holographic .container-306 {
+  height: 305px;
+  position: relative;
+  width: 305px;
+}
+
+.holographic .stickershuttle-10 {
+  background-image: url(../../../static/img/stickershuttle-bottle-png-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 305px;
+  left: 51px;
+  position: relative;
+  width: 203px;
+}
+
+.holographic .container-307 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 29px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .stickershuttle-board-4 {
+  background-image: url(../../../static/img/stickershuttle-board-150b2de5-5194-4773-b983-0a4f746602a4-png-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 305px;
+  left: 51px;
+  position: relative;
+  width: 203px;
+}
+
+.holographic .container-308 {
+  background-image: url(../../../static/img/stickershuttle-visitmars-png-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 305px;
+  position: relative;
+  width: 305px;
+}
+
+.holographic .footer-11 {
+  align-items: center;
+  background: linear-gradient(
+    161deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 1920px;
+}
+
+.holographic .container-309 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 29.99px;
+  max-width: 1600px;
+  padding: 0px 50px 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.holographic .container-310 {
+  align-self: stretch;
+  height: 377.13px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .container-311 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 216px;
+  left: 0;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.holographic .text-wrapper-116 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 23.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.holographic .list-24 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.93px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .item-34 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 1.5px 0px 0px;
+  position: relative;
+  width: 469px;
+}
+
+.holographic .component-143 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.holographic .item-35 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 469px;
+}
+
+.holographic .component-144 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.5px 0px 4.69px !important;
+  top: unset !important;
+}
+
+.holographic .container-312 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 216px;
+  left: 508px;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.holographic .item-36 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .container-313 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.3px;
+  height: 216px;
+  left: 1016px;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.holographic .text-wrapper-117 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.holographic .container-314 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 0;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.holographic .container-315 {
+  align-self: stretch;
+  height: 99.8px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .container-316 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 508px;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.holographic .container-317 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -8.00px;
+  padding: 0px 0px 8.8px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .sticker-society-PNG-10 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 100px;
+  position: relative;
+  width: 385px;
+}
+
+.holographic .container-318 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 1016px;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.holographic .strong-sticker-11 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.holographic .container-319 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .list-25 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 44px;
+  justify-content: center;
+  position: relative;
+}
+
+.holographic .item-37 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.holographic .component-145 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.holographic .component-146 {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.holographic .horizontal-border-14 {
+  align-self: stretch;
+  border-color: #ffffff14;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 1px;
+  margin-bottom: -1.00px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .container-320 {
+  height: calc(100.00% - 3325px);
+  left: 0;
+  position: absolute;
+  top: 2375px;
+  width: 100%;
+}
+
+.holographic .website-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 1188px;
+  left: 0;
+  max-height: 1188px;
+  max-width: 1900.8px;
+  position: absolute;
+  top: 0;
+  width: 1901px;
+}
+
+.holographic .image-fill-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1188px;
+  justify-content: center;
+  padding: 0px 356.4px;
+  position: relative;
+  width: 1900.8px;
+}
+
+.holographic .component-147 {
+  position: relative !important;
+}
+
+.holographic .container-321 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: calc(100.00% - 3832px);
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.holographic .background-17 {
+  align-self: stretch;
+  background: linear-gradient(
+    176deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  height: 85px;
+  position: relative;
+  width: 100%;
+}
+
+.holographic .header-11 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 10px;
+  left: 160px;
+  max-width: 1600px;
+  padding: 16px 50px 0px;
+  position: relative;
+  width: 1600px;
+}
+
+.holographic .link-margin-19 {
+  height: 69px;
+  position: relative;
+  width: 107.5px;
+}
+
+.holographic .link-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: -8px;
+  padding: 7.5px;
+  position: relative;
+}
+
+.holographic .sticker-shuttle-11 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-6.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: block;
+  height: 62px;
+  position: relative;
+  width: 252px;
+}
+
+.holographic .nav-margin-5 {
+  flex: 1;
+  flex-grow: 1;
+  height: 10.5px;
+  position: relative;
+}
+
+.holographic .container-322 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.holographic .component-148 {
+  align-self: stretch !important;
+  border-color: #1a1a74 !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.holographic .component-149 {
+  font-weight: 500 !important;
+}
+
+.holographic .component-150 {
+  align-self: stretch !important;
+  background-color: #c3ff00 !important;
+  border-color: #000000 !important;
+  box-shadow: 2px 2px 0px #ffffff !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.holographic .link-margin-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 44px;
+  position: relative;
+  width: 32px;
+}
+
+.holographic .component-151 {
+  left: unset !important;
+  margin-right: -12.00px !important;
+  top: unset !important;
+}

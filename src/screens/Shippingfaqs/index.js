@@ -1,0 +1,1 @@
+export { Shippingfaqs } from "./Shippingfaqs";

@@ -1,0 +1,853 @@
+.stickers {
+  align-items: center;
+  background-color: #ffffff;
+  display: inline-flex;
+  gap: 10px;
+  min-height: 3033.09px;
+  min-width: 1920px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .body-2 {
+  background-color: #070140;
+  height: 3033.09px;
+  position: relative;
+  width: 1920px;
+}
+
+.stickers .overlap-group-4 {
+  height: 2441px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.stickers .image-fill-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 1188px;
+  left: 0;
+  max-height: 1188px;
+  max-width: 1900.8px;
+  position: absolute;
+  top: 0;
+  width: 1901px;
+}
+
+.stickers .component-1-wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1188px;
+  justify-content: center;
+  padding: 0px 356.4px;
+  position: relative;
+  width: 1900.8px;
+}
+
+.stickers .component-1-instance {
+  position: relative !important;
+}
+
+.stickers .main-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 2356px;
+  left: 0;
+  position: absolute;
+  top: 85px;
+  width: 1920px;
+}
+
+.stickers .section-5 {
+  align-self: stretch;
+  background-color: #070140;
+  height: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .div-wrapper-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .background-border-6 {
+  align-items: center;
+  background-color: #f3ff00;
+  border: 2px dashed;
+  border-color: #a6d019;
+  border-radius: 16px;
+  box-shadow: 3px 3px 0px #a6d019;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 18px 2px;
+  position: relative;
+  width: 1500px;
+}
+
+.stickers .container-49 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.stickers .all-orders-with-2 {
+  align-self: stretch;
+  color: #08084c;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stickers .text-wrapper-13 {
+  font-weight: 300;
+  letter-spacing: 0.10px;
+}
+
+.stickers .text-wrapper-14 {
+  font-family: var(--stickershuttle-com-inter-bold-font-family);
+  font-size: var(--stickershuttle-com-inter-bold-font-size);
+  font-style: var(--stickershuttle-com-inter-bold-font-style);
+  font-weight: var(--stickershuttle-com-inter-bold-font-weight);
+  letter-spacing: var(--stickershuttle-com-inter-bold-letter-spacing);
+  line-height: var(--stickershuttle-com-inter-bold-line-height);
+}
+
+.stickers .background-border-7 {
+  align-items: center;
+  background-color: #ff0065;
+  border: 1px solid;
+  border-color: #ffffff0d;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 48.9px 1px 29.01px;
+  position: relative;
+  width: 1500px;
+}
+
+.stickers .image-border {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.stickers .container-50 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.stickers .container-51 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19.91px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .text-wrapper-15 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 31.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stickers .text-wrapper-16 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stickers .component-53 {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+}
+
+.stickers .component-54 {
+  background-color: #c3ff00 !important;
+}
+
+.stickers .background-border-8 {
+  align-items: center;
+  background: linear-gradient(
+    169deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 48.91px 1px 29px;
+  position: relative;
+  width: 1500px;
+}
+
+.stickers .image-border-2 {
+  display: block;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.stickers .container-52 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 19.9px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .component-55 {
+  background-color: #c3ff01 !important;
+}
+
+.stickers .background-border-9 {
+  align-items: center;
+  background: linear-gradient(
+    169deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 48.9px 1px 29.01px;
+  position: relative;
+  width: 1500px;
+}
+
+.stickers .text-wrapper-17 {
+  align-self: stretch;
+  color: #08084c;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.stickers .background-border-10 {
+  align-items: center;
+  background: linear-gradient(
+    169deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40.91px 1px 37px;
+  position: relative;
+  width: 1500px;
+}
+
+.stickers .background-border-11 {
+  align-items: center;
+  background: linear-gradient(
+    169deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40.9px 1px 37.01px;
+  position: relative;
+  width: 1500px;
+}
+
+.stickers .container-53 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30.01px;
+  max-width: 780px;
+  position: relative;
+  width: 780px;
+}
+
+.stickers .section-6 {
+  align-self: stretch;
+  background-color: #070140;
+  height: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .container-54 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 2000px;
+  padding: 25px 10px;
+  position: relative;
+  width: 1920px;
+}
+
+.stickers .container-55 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  margin-right: -10.00px;
+  position: relative;
+  width: 1910px;
+}
+
+.stickers .margin-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 25px 8.8px 0px;
+  position: relative;
+}
+
+.stickers .stickershuttle-3 {
+  background-image: url(../../../static/img/stickershuttle-banner-customstickers-34ffab73-0499-447e-80cb-043-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.stickers .box-png {
+  background-image: url(../../../static/img/box-2-png-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.stickers .stickershuttle-photo {
+  background-image: url(../../../static/img/stickershuttle-photo-nottodaysatan-15e87c0a-e20c-4de8-8e7d-73214-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.stickers .small-png {
+  background-image: url(../../../static/img/small-png-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.stickers .halloween-set-jpg {
+  background-image: url(../../../static/img/halloween-set-jpg-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.stickers .sticker-sheets-are {
+  background-image: url(../../../static/img/sticker-sheets-are-the-way-to-go-27153d88-37cb-41a1-9980-9ca6fdd-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.stickers .blinker-fluid-jpg {
+  background-image: url(../../../static/img/blinker-fluid-jpg-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.stickers .small-png-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 25px 8.8px 0px;
+  position: relative;
+  width: 160px;
+}
+
+.stickers .small-png-2 {
+  background-image: url(../../../static/img/small-png-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 41px;
+  height: 150px;
+  margin-right: -15.00px;
+  position: relative;
+  width: 150px;
+}
+
+.stickers .container-56 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.stickers .background-3 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    176deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .header-2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 0px 10px;
+  justify-content: space-between;
+  max-width: 1600px;
+  padding: 16px 50px 0px;
+  position: relative;
+  width: 1600px;
+}
+
+.stickers .link-wrapper {
+  height: 69px;
+  position: relative;
+  width: 107.5px;
+}
+
+.stickers .sticker-shuttle-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: -8px;
+  padding: 7.5px;
+  position: relative;
+}
+
+.stickers .sticker-shuttle-2 {
+  background-image: url(../../../static/img/sticker-shuttle-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 64.45px;
+  position: relative;
+  width: 252.26px;
+}
+
+.stickers .container-57 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.stickers .component-56 {
+  align-self: stretch !important;
+  border-color: #1a1a74 !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.stickers .component-57 {
+  font-weight: 500 !important;
+}
+
+.stickers .component-58 {
+  align-self: stretch !important;
+  background-color: #c3ff00 !important;
+  box-shadow: 2px 2px 0px #ffffff !important;
+  flex: 0 0 auto !important;
+  height: unset !important;
+  position: relative !important;
+  right: unset !important;
+  top: unset !important;
+}
+
+.stickers .link-margin-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 44px;
+  position: relative;
+  width: 32px;
+}
+
+.stickers .component-59 {
+  left: unset !important;
+  margin-right: -12.00px !important;
+  top: unset !important;
+}
+
+.stickers .footer-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 592px;
+  left: 0;
+  position: absolute;
+  top: 2441px;
+  width: 1920px;
+}
+
+.stickers .footer-2 {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(
+    161deg,
+    rgba(7, 1, 64, 1) 100%,
+    rgba(238, 238, 238, 1) 100%
+  );
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 60px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .container-58 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 29.99px;
+  max-width: 1600px;
+  padding: 0px 50px 50px;
+  position: relative;
+  width: 1600px;
+}
+
+.stickers .container-59 {
+  align-self: stretch;
+  height: 377.13px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .container-60 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 216px;
+  left: 0;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.stickers .div-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .text-wrapper-18 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 23.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stickers .list-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.93px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .component-3-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 1.5px 0px 0px;
+  position: relative;
+  width: 469px;
+}
+
+.stickers .item-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 469px;
+}
+
+.stickers .component-3-instance {
+  flex: 0 0 auto !important;
+  left: unset !important;
+  padding: 4.5px 0px 4.69px !important;
+  top: unset !important;
+}
+
+.stickers .container-61 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 216px;
+  left: 508px;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.stickers .list-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5.68e-14px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .container-62 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.3px;
+  height: 216px;
+  left: 1016px;
+  max-width: 1500px;
+  position: absolute;
+  top: 0;
+  width: 484px;
+}
+
+.stickers .text-wrapper-19 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stickers .container-63 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 508px;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.stickers .container-64 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -9.00px;
+  padding: 0px 0px 8.8px;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .sticker-society-PNG-2 {
+  background-image: url(../../../static/img/sticker-society-png-160x-png-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 101px;
+  position: relative;
+  width: 388px;
+}
+
+.stickers .container-65 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 101px;
+  left: 1016px;
+  max-width: 1500px;
+  position: absolute;
+  top: 276px;
+  width: 484px;
+}
+
+.stickers .strong-sticker-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.stickers .container-66 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.stickers .list-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  justify-content: center;
+  position: relative;
+}
+
+.stickers .item-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.stickers .component-60 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  left: unset !important;
+  top: unset !important;
+  width: 100% !important;
+}
+
+.stickers .horizontal-border-2 {
+  align-self: stretch;
+  border-color: #ffffff14;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 31px;
+  margin-top: -0.01px;
+  position: relative;
+  width: 100%;
+}

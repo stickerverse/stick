@@ -1,0 +1,55 @@
+.component-19 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.component-19.hover-15-true {
+  left: 180px;
+}
+
+.component-19.variant-16-three {
+  height: 44px;
+  justify-content: center;
+  top: 184px;
+}
+
+.component-19.hover-15-false {
+  left: 30px;
+}
+
+.component-19.variant-16-two {
+  top: 107px;
+}
+
+.component-19.variant-16-one {
+  top: 30px;
+}
+
+.component-19.variant-16-three.hover-15-false {
+  width: 44px;
+}
+
+.component-19.variant-16-one.hover-15-false {
+  padding: 13px;
+  width: calc(100.00% - 30px);
+}
+
+.component-19.hover-15-true.variant-16-two {
+  padding: 12.37px;
+  width: calc(100.00% - 180px);
+}
+
+.component-19.hover-15-true.variant-16-one {
+  padding: 12.37px;
+  width: calc(100.00% - 180px);
+}
+
+.component-19.variant-16-two.hover-15-false {
+  padding: 13px;
+  width: calc(100.00% - 30px);
+}
+
+.component-19.hover-15-true.variant-16-three {
+  width: 47px;
+}

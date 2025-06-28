@@ -1,0 +1,40 @@
+.component-36 {
+  align-items: center;
+  background-color: #0b0264;
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 30px;
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  left: 30px;
+  max-width: 330px;
+  padding: 10.36px 10.75px 11.64px;
+  position: relative;
+  top: 30px;
+  width: calc(100.00% - 30px);
+}
+
+.component-36 .text-25 {
+  color: #ffffff;
+  flex: 1;
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0.60px;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.component-36:hover {
+  left: 390px;
+  opacity: 0.8;
+  width: calc(100.00% - 390px);
+}
+
+.component-36:hover .text-25 {
+  white-space: nowrap;
+  width: fit-content;
+}

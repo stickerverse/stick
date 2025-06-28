@@ -1,0 +1,70 @@
+.component-20 {
+  align-items: center;
+  border-radius: 11px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 30px;
+}
+
+.component-20 .link-paints-3 {
+  background-color: #ffd713;
+  border-radius: 11px;
+  box-shadow: 0px 0px 7px #ffe878;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.component-20 .text-wrapper-2 {
+  color: #161245;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-20 .overlay-shadow-6 {
+  background-color: #ffffff01;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.component-20.hover-16-true {
+  background-color: #ffd713;
+  box-shadow: 0px 0px 7px #ffe878;
+  height: 76px;
+  left: 380px;
+  padding: 26.45px 30px 27.05px;
+  width: 306px;
+}
+
+.component-20.hover-16-false {
+  height: 75px;
+  left: 30px;
+  padding: 26.2px 30px 26.8px;
+  width: 300px;
+}
+
+.component-20.hover-16-true .text-wrapper-2 {
+  font-size: 18.4px;
+  letter-spacing: 1.02px;
+  line-height: 22px;
+  margin-top: -0.50px;
+}
+
+.component-20.hover-16-false .text-wrapper-2 {
+  font-size: 18px;
+  letter-spacing: 1.00px;
+  line-height: 21.6px;
+  margin-top: -1.00px;
+}

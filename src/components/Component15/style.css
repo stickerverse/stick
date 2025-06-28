@@ -1,0 +1,71 @@
+.component-15 {
+  align-items: center;
+  border-radius: 11px;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+  top: 30px;
+}
+
+.component-15 .text-9 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15.3px;
+  font-weight: 300;
+  letter-spacing: 1.02px;
+  line-height: 18.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-15 .overlay-shadow-5 {
+  background-color: #ffffff01;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.component-15 .button-paints {
+  background-color: #ffd713;
+  border-radius: 11px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.component-15 .text-10 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 1.00px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-15.hover-14-true {
+  background-color: #ffd713;
+  min-height: 47.94px;
+  min-width: 124.44px;
+  padding: 13.96px 34.68px 14.98px 34.66px;
+}
+
+.component-15.hover-14-false {
+  left: 30px;
+  min-height: 47px;
+  min-width: 122px;
+  padding: 14px 34px 15px 33.98px;
+}

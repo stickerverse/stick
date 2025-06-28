@@ -1,0 +1,116 @@
+.component-3 {
+  display: inline-flex;
+  justify-content: center;
+}
+
+.component-3 .text-3 {
+  display: block;
+  font-family: "Inter", Helvetica;
+  font-weight: 300;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-3.variant-6-three {
+  align-items: center;
+  background-color: #ffd713;
+  border: 1px solid;
+  border-color: #8d9912;
+  border-radius: 10px;
+  box-shadow: 2px 2px 0px #cfaf13;
+  height: calc(100.00% - 186px);
+  position: absolute;
+  right: 0;
+  top: 186px;
+}
+
+.component-3.variant-6-two {
+  align-items: center;
+  background-color: #08084c;
+  border: 1px solid;
+  border-color: #0f028c;
+  border-radius: 10px;
+  box-shadow: 3px 3px 0px #0000001a;
+  height: calc(100.00% - 108px);
+  position: absolute;
+  right: 0;
+  top: 108px;
+}
+
+.component-3.variant-6-one {
+  align-items: flex-start;
+  position: relative;
+  top: 30px;
+}
+
+.component-3.variant-6-three.hover-6-false {
+  min-height: 40px;
+  padding: 1px 25px;
+}
+
+.component-3.hover-6-true.variant-6-two {
+  min-height: 40.8px;
+  padding: 1px 25.5px;
+}
+
+.component-3.variant-6-two.hover-6-false {
+  min-height: 40px;
+  padding: 1px 25px;
+}
+
+.component-3.hover-6-true.variant-6-three {
+  min-height: 40.8px;
+  padding: 1px 25.5px;
+}
+
+.component-3.variant-6-three .text-3 {
+  color: #000080;
+}
+
+.component-3.hover-6-false .text-3 {
+  letter-spacing: 0.60px;
+}
+
+.component-3.variant-6-two .text-3 {
+  color: #ffffff;
+}
+
+.component-3.variant-6-one .text-3 {
+  font-size: 16px;
+  letter-spacing: 0.60px;
+  line-height: 28.8px;
+  margin-top: -1.00px;
+  text-decoration: underline;
+}
+
+.component-3.variant-6-three.hover-6-false .text-3 {
+  font-size: 14px;
+  line-height: 25.2px;
+}
+
+.component-3.variant-6-one.hover-6-false .text-3 {
+  color: #ff0065;
+}
+
+.component-3.hover-6-true.variant-6-two .text-3 {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}
+
+.component-3.hover-6-true.variant-6-one .text-3 {
+  color: #1c1c77;
+}
+
+.component-3.variant-6-two.hover-6-false .text-3 {
+  font-size: 14px;
+  line-height: 25.2px;
+}
+
+.component-3.hover-6-true.variant-6-three .text-3 {
+  font-size: 14.3px;
+  letter-spacing: 0.61px;
+  line-height: 25.7px;
+}
